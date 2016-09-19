@@ -15,6 +15,13 @@ Depending on your skill level, each lab will take anywhere from five to forty-fi
 Labs are designed to start easy and get more difficult, so as to keep you playfully challenged.
 You can get help on each lab by simply hanging out in the "App Engineering Lounge" and raising your hand; or you can ask questions via our slack channel.
 
+The process for completing labs and earining points is simple:
+ 1. select a lab (below) to complete
+ 2. get help to complete the lab
+ 3. show your result to the community to get points
+ 4. use your points to claim Stacker swag at the 'App Labs' lounge.
+ 5. repeat, goto --> 1
+
 To get started we'll need to have the following pre-requisites:
  * a laptop
  * an account on one of the many OpenStack public clouds: if you don't have one, we have one for you.
