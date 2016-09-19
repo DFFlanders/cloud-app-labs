@@ -2,7 +2,7 @@
 
 ![openstack summit barcelona](https://www.sebastien-han.fr/blog/images/openstack-summit-2016-barcelona.jpg)
 
-Welcome to the OpenStack Summit (the following 'cloud app labs' are part of the growing OpenStack Applicaiton Academy and will be located in the Summit Marketplace aka Expo Hall)! This repository contains a series of 'cloud app labs' to help you get started with becoming a cloud application engineer (the future of app development!).
+Welcome to the OpenStack Summit.  The following 'cloud app labs' are part of the growing 'OpenStack Applicaiton Academy' and will be located in the Summit Marketplace aka Expo Hall. This repository contains a series of 'cloud app labs' to help you get started with becoming a cloud application engineer - the future of app development.
 
 Overall Learning Objectives (by completing these labs you will know how to...)
  - [x] work as part of a cloud app team, whose collaboration with one another is paramount for success.
@@ -13,12 +13,12 @@ Overall Learning Objectives (by completing these labs you will know how to...)
 
 Depending on your skill level, each lab will take anywhere from five to forty-five minutes.
 Labs are designed to start easy and get more difficult, so as to keep you playfully challenged.
-You can get help on each lab by simply hanging out in the "App Engineering Lounge" and raising your hand.
+You can get help on each lab by simply hanging out in the "App Engineering Lounge" and raising your hand; or you can ask questions via our slack channel.
 
 To get started we'll need to have the following pre-requisites:
- * foo
- * bar
- * bla
+ * a laptop
+ * an account on one of the many OpenStack public clouds: if you don't have one, we have one for you.
+ * an SSH key and basic understanding for how to install applications on the cloud (only very basic).
 
 [Setup your system to do a cloud app lab.](http://short link within repository)
 
@@ -26,7 +26,7 @@ If you would like to get started with the first lab please do, otherwise stop by
 
 ## Contribute your own app lab!
 
-If you have an idea for a fun app lab which we can add to this repository, please don't hesitate to branch/pull.  Other ideas, have a chat with community wrangler Flanders (via IRC/Twitter @DFFLanders).
+If you have an idea for a fun app lab which we can add to this repository, please don't hesitate to branch/pull.  Other ideas, have a chat with fellow app-dev via the slack channel.
 
 # Cloud App Lab no.1
 
@@ -36,7 +36,27 @@ foobar
 
 foobar
 
-#
+# Cloud App Lab no.3
+
+foobar
+
+# Cloud App Lab no.4
+
+foobar
+
+# Cloud App Lab no.5
+
+foobar
+
+# Cloud App Lab no.6
+
+foobar
+
+# Cloud App Lab no.???
+
+Do you have an idea for a lab?  
+Please do suggest!
+Ping us on the slack channel: http://cloud-app-hack.slack.com
 
 
 
