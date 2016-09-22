@@ -35,11 +35,12 @@ If you would like to get started with the first lab please do, otherwise stop by
 
 If you have an idea for a fun app lab which we can add to this repository, please don't hesitate to branch/pull.  Other ideas, have a chat with fellow app-dev via the slack channel.
 
-# Cloud App Lab no.1
+# Cloud App Lab no.1 - StackTour: an overview of OpenStack projects as per the buttons they relate to on the Web dashboard.
 
-foobar
+Skill level = n00b (easy)
+Stacker points = 5
 
-# Cloud App Lab no.2
+# Cloud App Lab no.2 - StackConfig: controlling multiple datacentres worldwide
 
 foobar
 
