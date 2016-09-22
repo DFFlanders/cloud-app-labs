@@ -24,6 +24,7 @@ The process for completing labs and earining points is simple:
 
 To get started we'll need to have the following pre-requisites:
  * a laptop
+ * basic Python scripting skills
  * an account on one of the many OpenStack public clouds: if you don't have one, we have one for you.
  * an SSH key and basic understanding for how to install applications on the cloud (only very basic).
 
@@ -37,18 +38,24 @@ If you have an idea for a fun app lab which we can add to this repository, pleas
 
 # Cloud App Lab no.1 - StackTour: an overview of OpenStack projects as per the buttons they relate to on the Web dashboard.
 
-Skill level = n00b (easy)
-Stacker points = 5
+ - Skill level = n00b (easy)
+ - Stacker points = +1 point
 
 # Cloud App Lab no.2 - StackConfig: controlling multiple datacentres worldwide
+About this lab:
+ - Lab level: intermediate
+ - Stacker score: +3 points
+
+To score the points:
+ - [ ] install os-client-config so you can control multiple clouds.
+ - [ ] show you have back-end control of two+ OpenStack powered datacentres.
+ - [ ] tweet one of our community gurus...
+
+# Cloud App Lab no.3 - StackClouds: cross-cloud apps (say 'no' to cloud app lock-in)
 
 foobar
 
-# Cloud App Lab no.3
-
-foobar
-
-# Cloud App Lab no.4
+# Cloud App Lab no.4 - Stack
 
 foobar
 
