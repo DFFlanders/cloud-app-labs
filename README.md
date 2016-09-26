@@ -36,15 +36,17 @@ If you would like to get started with the first lab please do, otherwise stop by
 
 If you have an idea for a fun app lab which we can add to this repository, please don't hesitate to branch/pull.  Other ideas, have a chat with fellow app-dev via the slack channel.
 
-# Cloud App Lab no.1 - StackTour: an overview of OpenStack projects as per the buttons they relate to on the Web dashboard.
+# Cloud App Lab no.1 - [StackTour: an overview of OpenStack projects as per the buttons they relate to on the Web dashboard.](/StackTour.md)
 
+ - What you'll learn in this lab: 
  - Skill level = n00b (easy)
- - Stacker points = +1 point
+ - Stacker can score = +1 point for completing this lab.
 
 # Cloud App Lab no.2 - StackConfig: controlling multiple datacentres worldwide
 About this lab:
+ - What you'll learn in this lab: 
  - Lab level: intermediate
- - Stacker score: +3 points
+ - Stacker can score: +3 points for completing this lab.
 
 To score the points:
  - [ ] install os-client-config so you can control multiple clouds.
@@ -52,8 +54,13 @@ To score the points:
  - [ ] tweet one of our community gurus...
 
 # Cloud App Lab no.3 - StackClouds: cross-cloud apps (say 'no' to cloud app lock-in)
+About this lab:
+ - What you'll lean in this lab: 
+ - Lab level: intermediate 
+ - Stackers can score: +5 points for completing this lab.
 
-foobar
+To score your stacker points:
+ - [ ] 
 
 # Cloud App Lab no.4 - Stack
 
