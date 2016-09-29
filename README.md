@@ -44,7 +44,7 @@ If you have an idea for a fun app lab which we can add to this repository, pleas
 
 # Cloud App Lab no.2 - StackConfig: controlling multiple datacentres worldwide
 About this lab:
- - What you'll learn in this lab: 
+ - What you'll learn in this lab: os-cloud-config.py --> clouds.yaml
  - Lab level: intermediate
  - Stacker can score: +3 points for completing this lab.
 
@@ -55,24 +55,30 @@ To score the points:
 
 # Cloud App Lab no.3 - StackClouds: cross-cloud apps (say 'no' to cloud app lock-in)
 About this lab:
- - What you'll lean in this lab: 
+ - What you'll lean in this lab: shade_test.py --> public IP
  - Lab level: intermediate 
  - Stackers can score: +5 points for completing this lab.
 
-To score your stacker points:
+To score your stacker points: 
  - [ ] 
 
-# Cloud App Lab no.4 - Stack
+# Cloud App Lab no.4 - StackApps: installing an application with multiple workers at different locations around the world.
+Aboout this lab:
+ - What you'll learn in this lab: shade --> install fractals app --> 
+ - Lab level: advanced
+ - Stackers can score: +10 points for completing this lab.
 
-foobar
+# Cloud App Lab no.5 - StackData: attaching storage to your multi-factor app, undertanding state/less app architectures.
+About this lab:
+ - What you learn in this lab: shade --> attach cinder volume --> 
+ - 
 
-# Cloud App Lab no.5
 
-foobar
-
-# Cloud App Lab no.6
-
-foobar
+# Cloud App Lab no.6 - StackOrchestrate: start to create self-healing workers to monitor and rebuild different parts of your cloud applicaiton in situ.
+About this lab:
+ - What you'll learn in this lab:
+ - Lab difficulty level: advanced, understanding of application architectures and orchstration frameworks...
+ - Stackers can score: +15 points for completing this lab.
 
 # Cloud App Lab no.???
 
