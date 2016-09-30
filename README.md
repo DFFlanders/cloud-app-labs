@@ -38,20 +38,17 @@ If you have an idea for a fun app lab which we can add to this repository, pleas
 
 # Cloud App Lab no.1 - [StackTour: an overview of OpenStack projects as per the buttons they relate to on the Web dashboard.](/StackTour.md)
 
- - What you'll learn in this lab: 
- - Skill level = n00b (easy)
+ - What you'll learn in this lab: which buttons on the OpenStack dashboard (Horizon) align with which OpenStack project (Nova, Neutron, Cinder, Swift, Glance, etc).
+ - Skill level = n00b (easy), understand SSH keys and basics of launching VMs.
  - Stacker can score = +1 point for completing this lab.
 
 # Cloud App Lab no.2 - StackConfig: controlling multiple datacentres worldwide
 About this lab:
- - What you'll learn in this lab: os-cloud-config.py --> clouds.yaml
- - Lab level: intermediate
+ - What you'll learn in this lab: how to configure your code so that you don't have to use the dashboard, but can instead use simple python scripts to get access to Datacenters powered by OpenStack worldwide (os-cloud-config.py)  Yes that's right one simple file is all you need to access hundreds of clouds (clouds.yaml)
+ - Lab level: intermediate, need to understand basic authentication via command line, use of yaml as a simple structured document for storring login details.
  - Stacker can score: +3 points for completing this lab.
 
-To score the points:
- - [ ] install os-client-config so you can control multiple clouds.
- - [ ] show you have back-end control of two+ OpenStack powered datacentres.
- - [ ] tweet one of our community gurus...
+--> [Get started on this CloudAppLab now!](/StackConfig.md)
 
 # Cloud App Lab no.3 - StackClouds: cross-cloud apps (say 'no' to cloud app lock-in)
 About this lab:
