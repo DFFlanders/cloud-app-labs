@@ -68,16 +68,7 @@ Aboout this lab:
  
   --> [Get started on this Cloud App Lab now!](
 
-# Cloud App Lab no.5 - [StackData: attaching storage to your multi-factor app, undertanding state/less app architectures.](/StackApps.md)
-
-About this lab:
- - What you learn in this lab: shade --> attach cinder volume --> 
- - Lab level:
- - Stackers can score: 
-
- --> [Get started on this Cloud App Lab now!](/StackData)
- 
-# Cloud App Lab no.6 - StackHeal: start to create self-healing workers to monitor and rebuild different parts of your cloud applicaiton in situ.](/StackHeal.md)
+# Cloud App Lab no.5 - StackHeal: start to create self-healing workers to monitor and rebuild different parts of your cloud applicaiton in situ.](/StackHeal.md)
 
 About this lab:
  - What you'll learn in this lab:
@@ -85,6 +76,15 @@ About this lab:
  - Stackers can score: +15 points for completing this lab.
  
 --> [Get started on this Cloud App Lab now!](/StackHeal)
+
+# Cloud App Lab no.6 - [StackData: attaching storage to your multi-factor app, undertanding state/less app architectures.](/StackApps.md)
+
+About this lab:
+ - What you learn in this lab: shade --> attach cinder volume --> 
+ - Lab level:
+ - Stackers can score: 
+
+ --> [Get started on this Cloud App Lab now!](/StackData)
 
 # Cloud App Lab no.???
 
