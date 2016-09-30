@@ -42,7 +42,7 @@ If you have an idea for a fun app lab which we can add to this repository, pleas
  - Skill level = n00b (easy), understand SSH keys and basics of launching VMs.
  - Stacker can score = +1 point for completing this lab.
 
-# Cloud App Lab no.2 - StackConfig: controlling multiple datacentres worldwide
+# Cloud App Lab no.2 - [StackConfig: controlling multiple datacentres worldwide](/StackerTour.md)
 About this lab:
  - What you'll learn in this lab: how to configure your code so that you don't have to use the dashboard, but can instead use simple python scripts to get access to Datacenters powered by OpenStack worldwide (os-cloud-config.py)  Yes that's right one simple file is all you need to access hundreds of clouds (clouds.yaml)
  - Lab level: intermediate, need to understand basic authentication via command line, use of yaml as a simple structured document for storring login details.
@@ -50,7 +50,7 @@ About this lab:
 
 --> [Get started on this CloudAppLab now!](/StackConfig.md)
 
-# Cloud App Lab no.3 - StackClouds: cross-cloud apps (say 'no' to cloud app lock-in)
+# Cloud App Lab no.3 - [StackClouds: cross-cloud apps (say 'no' to cloud app lock-in)](/StackClouds.md)
 About this lab:
  - What you'll lean in this lab: shade_test.py --> public IP
  - Lab level: intermediate 
@@ -59,19 +59,19 @@ About this lab:
 To score your stacker points: 
  - [ ] 
 
-# Cloud App Lab no.4 - StackApps: installing an application with multiple workers at different locations around the world.
+# Cloud App Lab no.4 - [StackApps: installing an application with multiple workers at different locations around the world.](/StackApps.md)
 Aboout this lab:
  - What you'll learn in this lab: shade --> install fractals app --> 
  - Lab level: advanced
  - Stackers can score: +10 points for completing this lab.
 
-# Cloud App Lab no.5 - StackData: attaching storage to your multi-factor app, undertanding state/less app architectures.
+# Cloud App Lab no.5 - [StackData: attaching storage to your multi-factor app, undertanding state/less app architectures.](/StackApps.md)
 About this lab:
  - What you learn in this lab: shade --> attach cinder volume --> 
  - 
 
 
-# Cloud App Lab no.6 - StackOrchestrate: start to create self-healing workers to monitor and rebuild different parts of your cloud applicaiton in situ.
+# Cloud App Lab no.6 - StackHeal: start to create self-healing workers to monitor and rebuild different parts of your cloud applicaiton in situ.](/StackOrchestrate/.md)
 About this lab:
  - What you'll learn in this lab:
  - Lab difficulty level: advanced, understanding of application architectures and orchstration frameworks...
@@ -83,5 +83,9 @@ Do you have an idea for a lab?
 Please do suggest!
 Ping us on the slack channel: http://cloud-app-hack.slack.com
 
+# Cloud App Lab no.NN - StackContainers: start splitting out the state of your app workers to be more agile (self healing) as containers which can dynamically move accross datacentres worldwide
 
+Coming soon.
+
+# Cloud App Lab no.N+1 - Stack
 
