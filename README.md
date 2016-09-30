@@ -28,27 +28,27 @@ To get started we'll need to have the following pre-requisites:
  * an account on one of the many OpenStack public clouds: if you don't have one, we have one for you.
  * an SSH key and basic understanding for how to install applications on the cloud (only very basic).
 
-[Setup your system to do a cloud app lab.](http://short link within repository)
+[Setup your system to do a cloud app lab.](/prereq)
 
-If you would like to get started with the first lab please do, otherwise stop by cloud app lab area to get help.
+To get started either select a lab below, when you need some help come swing by the 'Cloud App Lab' lounge in the Marketplace (expo hall).  Alternativley ask questions in the #OpenStack IRC channel.
 
 ## Contribute your own app lab!
 
-If you have an idea for a fun app lab which we can add to this repository, please don't hesitate to branch/pull.  Other ideas, have a chat with fellow app-dev via the #openstack IRC channel http://eavesdrop.openstack.org/irclogs/
+If you have an idea for a fun app lab which we can add to this repository, please don't hesitate to branch/pull.  Please do say hi have a chat with fellow app-dev via the #openstack IRC channel http://eavesdrop.openstack.org/irclogs/
 
 # Cloud App Lab no.1 - [StackTour: an overview of OpenStack projects as per the buttons they relate to on the Web dashboard.](/StackTour.md)
 
  - What you'll learn in this lab: which buttons on the OpenStack dashboard (Horizon) align with which OpenStack project (Nova, Neutron, Cinder, Swift, Glance, etc).
- - Skill level = n00b (easy), understand SSH keys and basics of launching VMs.
+ - Skill level = n00b (easy), understand SSH keys and basics of launching VMs using the dashboard GUI.
  - Stacker can score = +1 point for completing this lab.
 
-# Cloud App Lab no.2 - [StackConfig: controlling multiple datacentres worldwide](/StackerTour.md)
+# Cloud App Lab no.2 - [StackEntrance: having an entrace to all OpenStack public clouds worldwide](/StackerEntrance.md)
 About this lab:
  - What you'll learn in this lab: how to configure your code so that you don't have to use the dashboard, but can instead use simple python scripts to get access to Datacenters powered by OpenStack worldwide (os-cloud-config.py)  Yes that's right one simple file is all you need to access hundreds of clouds (clouds.yaml)
  - Lab level: intermediate, need to understand basic authentication via command line, use of yaml as a simple structured document for storring login details.
  - Stacker can score: +3 points for completing this lab.
 
---> [Get started on this CloudAppLab now!](/StackConfig.md)
+--> [Get started on this CloudAppLab now!](/StackEntrance.md)
 
 # Cloud App Lab no.3 - [StackClouds: cross-cloud apps (say 'no' to cloud app lock-in)](/StackClouds.md)
 
@@ -72,30 +72,27 @@ Aboout this lab:
 
 About this lab:
  - What you learn in this lab: shade --> attach cinder volume --> 
- - 
+ - Lab level:
+ - Stackers can score: 
 
- --> [Get started on this Cloud App Lab now!](
+ --> [Get started on this Cloud App Lab now!](/StackData)
  
-# Cloud App Lab no.6 - StackHeal: start to create self-healing workers to monitor and rebuild different parts of your cloud applicaiton in situ.](/StackOrchestrate/.md)
+# Cloud App Lab no.6 - StackHeal: start to create self-healing workers to monitor and rebuild different parts of your cloud applicaiton in situ.](/StackHeal.md)
 
 About this lab:
  - What you'll learn in this lab:
  - Lab difficulty level: advanced, understanding of application architectures and orchstration frameworks...
  - Stackers can score: +15 points for completing this lab.
  
---> [Get started on this Cloud App Lab now!](
+--> [Get started on this Cloud App Lab now!](/StackHeal)
 
 # Cloud App Lab no.???
 
 Do you have an idea for a lab?  
-Please do suggest!
-Ping us on the slack channel: http://cloud-app-hack.slack.com
+Please do suggest!  Or just 'fork' and 'pull' now :)
+Ping us on the #OpenStack IRC channel.
 
-# Cloud App Lab no.NN - StackContainers: start splitting out the state of your app workers to be more agile (self healing) as containers which can dynamically move accross datacentres worldwide
-
-Coming soon.
-
-# Cloud App Lab no.N+1 - StackHack
+# Cloud App Lab no.NN - StackContainers: start splitting out the state of your app workers to be more agile (self healing) as containers which can dynamically shift accross datacentres worldwide.
 
 Coming soon.
 
