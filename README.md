@@ -34,7 +34,7 @@ If you would like to get started with the first lab please do, otherwise stop by
 
 ## Contribute your own app lab!
 
-If you have an idea for a fun app lab which we can add to this repository, please don't hesitate to branch/pull.  Other ideas, have a chat with fellow app-dev via the slack channel.
+If you have an idea for a fun app lab which we can add to this repository, please don't hesitate to branch/pull.  Other ideas, have a chat with fellow app-dev via the #openstack IRC channel http://eavesdrop.openstack.org/irclogs/
 
 # Cloud App Lab no.1 - [StackTour: an overview of OpenStack projects as per the buttons they relate to on the Web dashboard.](/StackTour.md)
 
@@ -51,31 +51,39 @@ About this lab:
 --> [Get started on this CloudAppLab now!](/StackConfig.md)
 
 # Cloud App Lab no.3 - [StackClouds: cross-cloud apps (say 'no' to cloud app lock-in)](/StackClouds.md)
+
 About this lab:
  - What you'll lean in this lab: shade_test.py --> public IP
  - Lab level: intermediate 
  - Stackers can score: +5 points for completing this lab.
-
-To score your stacker points: 
- - [ ] 
+ 
+ --> [Get started on this Cloud App Lab now!](/StackClouds.md)
 
 # Cloud App Lab no.4 - [StackApps: installing an application with multiple workers at different locations around the world.](/StackApps.md)
+
 Aboout this lab:
  - What you'll learn in this lab: shade --> install fractals app --> 
  - Lab level: advanced
  - Stackers can score: +10 points for completing this lab.
+ 
+  --> [Get started on this Cloud App Lab now!](
 
 # Cloud App Lab no.5 - [StackData: attaching storage to your multi-factor app, undertanding state/less app architectures.](/StackApps.md)
+
 About this lab:
  - What you learn in this lab: shade --> attach cinder volume --> 
  - 
 
-
+ --> [Get started on this Cloud App Lab now!](
+ 
 # Cloud App Lab no.6 - StackHeal: start to create self-healing workers to monitor and rebuild different parts of your cloud applicaiton in situ.](/StackOrchestrate/.md)
+
 About this lab:
  - What you'll learn in this lab:
  - Lab difficulty level: advanced, understanding of application architectures and orchstration frameworks...
  - Stackers can score: +15 points for completing this lab.
+ 
+--> [Get started on this Cloud App Lab now!](
 
 # Cloud App Lab no.???
 
@@ -87,5 +95,7 @@ Ping us on the slack channel: http://cloud-app-hack.slack.com
 
 Coming soon.
 
-# Cloud App Lab no.N+1 - Stack
+# Cloud App Lab no.N+1 - StackHack
+
+Coming soon.
 
