@@ -30,7 +30,7 @@ To get you started you'll need to have the following pre-requisites:
  * an account on one of the many OpenStack public clouds: if you don't have one, we have one for you.
  * an SSH key and basic understanding for how to apt-get install applications on the cloud (only very basic).
 
-[Setup your system to do a cloud app lab.](/prereq)
+--> [Setup your laptop to work with an OpenStack powered datacenter to do a cloud app lab.](/prereq)
 
 To get started select a lab below, when you need some help come swing by the 'Cloud App Lab' lounge in the Marketplace (expo hall).  Alternativley ask one of our friendly community folks to come and meet up with you via twitter, just send a tweet "I can haz help? Meet me in the #CloudApps lab lounge? #OpenStack" <-- just remember to use the [#CloudApps](https://twitter.com/hashtag/cloudapps) hashtag.
 
