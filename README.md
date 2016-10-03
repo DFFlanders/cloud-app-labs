@@ -38,7 +38,6 @@ To get started select a lab below, when you need some help come swing by the 'Cl
 
 If you have an idea for a fun app lab which we can add to this repository, please don't hesitate to branch/pull.
 
-
 ... let's get started!
 
 # Cloud App Lab no.1 - [StackTour: an overview of OpenStack projects as per the buttons they relate to on the Web dashboard.](/StackTour.md)
@@ -73,7 +72,16 @@ Aboout this lab:
  
   --> [Get started on this Cloud App Lab now!](
 
-# Cloud App Lab no.5 - [StackHeal: start to create self-healing workers to monitor and rebuild different parts of your cloud applicaiton in situ.](/StackHeal.md)
+# Cloud App Lab no.5 - [StackData: attaching storage to your multi-factor app, undertanding state/less app architectures.](/StackApps.md)
+
+About this lab:
+ - What you learn in this lab: shade --> attach cinder volume --> 
+ - Lab level:
+ - Stackers can score: 
+
+ --> [Get started on this Cloud App Lab now!](/StackData)
+ 
+ # Cloud App Lab no.6 - [StackHeal: start to create self-healing workers to monitor and rebuild different parts of your cloud applicaiton in situ.](/StackHeal.md)
 
 About this lab:
  - What you'll learn in this lab:
@@ -82,20 +90,10 @@ About this lab:
  
 --> [Get started on this Cloud App Lab now!](/StackHeal)
 
-# Cloud App Lab no.6 - [StackData: attaching storage to your multi-factor app, undertanding state/less app architectures.](/StackApps.md)
-
-About this lab:
- - What you learn in this lab: shade --> attach cinder volume --> 
- - Lab level:
- - Stackers can score: 
-
- --> [Get started on this Cloud App Lab now!](/StackData)
-
 # Cloud App Lab no.???
 
 Do you have an idea for a lab?  
 Please do suggest!  Or just 'fork' and 'pull' now :)
-Ping us on the #OpenStack IRC channel.
 
 # Cloud App Lab no.NN - StackContainers: start splitting out the state of your app workers to be more agile (self healing) as containers which can dynamically shift accross datacentres worldwide.
 
