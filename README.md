@@ -4,7 +4,7 @@
 
 Welcome to the OpenStack Summit.  The following 'cloud app labs' are part of the growing 'OpenStack Application Academy' and will be located in the Summit Marketplace aka Expo Hall. This repository contains a series of 'cloud app labs' to help you get self-started with becoming a cloud application engineer - the future of app development.
 
-TL;DR = ask Q's anytime by tweeting with [#CloudApps](https://twitter.com/hashtag/cloudapps).
+TL;DR = ask Q's anytime by sending a tweet which includes [#CloudApps](https://twitter.com/hashtag/cloudapps) + your question.
 
 Overall Learning Objectives (by completing these labs you will know how to...)
  - [x] work as part of a cloud app team, whose collaboration with one another is paramount for success.
@@ -15,16 +15,16 @@ Overall Learning Objectives (by completing these labs you will know how to...)
 
 Depending on your skill level, each lab will take anywhere from five to forty-five minutes.
 Labs are designed to start easy and get more difficult, so as to keep you playfully challenged.
-You can get help on each lab by simply hanging out in the "App Engineering Lounge" and raising your hand; or you can ask for someone to come and find you via [#cloudapps](https://twitter.com/hashtag/cloudapps) hashtag on twitter (we'll be monitorring [#OpenStack](https://twitter.com/hashtag/OpenStack) #CloudApp Q's throughout).
+You can get help on each lab by simply hanging out in the "App Engineering Lounge" and asking for help at the info-desk; or you can ask for someone to come and find you via [#cloudapps](https://twitter.com/hashtag/cloudapps) hashtag on twitter (we'll be monitorring [#OpenStack](https://twitter.com/hashtag/OpenStack) #CloudApp Q's throughout).
 
 The process for completing labs and earining points is simple:
- 1. select a lab (below) to complete
- 2. get help to complete the lab
- 3. show your lab result to the community to get points
+ 1. select a lab (below) to complete;
+ 2. get help to complete the lab;
+ 3. show your lab result to the community to get points;
  4. use your points to claim Stacker swag at the 'App Labs' lounge.
- 5. repeat, goto --> 1
+ 5. Repeat, goto --> 1
 
-To get started we'll need to have the following pre-requisites:
+To get you started you'll need to have the following pre-requisites:
  * a laptop with wifi access and SSH ports open.
  * basic Python scripting skills
  * an account on one of the many OpenStack public clouds: if you don't have one, we have one for you.
