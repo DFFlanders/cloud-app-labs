@@ -14,7 +14,7 @@ Our Keystone service is available via https://compute.datacentred.io:5000/v2.0/.
 
 ## Using clouds.yaml
 
-If you're using a clouds.yaml file, populate the information within it like so:
+If you're using a clouds.yaml file, populate the information within it using your credentials like so:
 
 ```yaml
 # clouds.yaml
