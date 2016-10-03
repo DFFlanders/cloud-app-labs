@@ -4,7 +4,7 @@ The following clouds are available for use (and have ben tested by the [OpenStac
 
  - [x] [OVH](/ovh) (official cloud sponsor of the OpenStack Academy at the Barcelona Summit)
  - [x] [Internap](/internap.md)
- - [x] [Datacentred](/datacenred.md)
+ - [x] [DataCentred](/datacentred.md)
  - [x] [CityCloud](/citycloud.md)
  - [x] [Mirantis](/mirantis.md)
  
