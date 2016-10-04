@@ -2,9 +2,9 @@
 
 ![openstack summit barcelona](/Cloud App Labs Barcelona.png)
 
-Welcome to the OpenStack Summit.  The following 'cloud app labs' are part of the growing 'OpenStack Application Academy' and will be located in the Summit Marketplace aka Expo Hall. This repository contains a series of 'cloud app labs' to help you get self-started with becoming a cloud application engineer - the future of app development.
+Welcome to the OpenStack Summit.  The following 'Cloud App Labs' are part of the growing 'OpenStack Application Academy' and will be located in the Summit Marketplace aka Expo Hall. This repository contains a series of 'cloud app labs' to help you get self-started with becoming a cloud application engineer - the future of app development.
 
-TL;DR = ask Q's anytime by sending a tweet which includes [#CloudApps](https://twitter.com/hashtag/cloudapps) + your question.
+TL;DR = Learn the skills to become a 'Cloud Application Engineer' - ask Q's anytime by sending a tweet which includes [#CloudApps](https://twitter.com/hashtag/cloudapps) + your question.
 
 Overall Learning Objectives (by completing these labs you will know how to...)
  - [x] work as part of a cloud app team, whose collaboration with one another is paramount for success.
