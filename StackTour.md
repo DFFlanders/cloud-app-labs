@@ -6,7 +6,7 @@ Welcome to the OpenStack Cloud App Lounge!  We have several fun lab challenges f
 How to win your stacker points, aka 'Stacker Swag'.
 --> You'll get Stacker swag point(s) for every picture you tweet showing a button on the OpenStack public cloud of your choice which represents the following [core OpenStack projects](https://www.openstack.org/software/project-navigator/).  For example, here is a picture of a button which works with the Keystone project:
 
-![Image of OpenStack login screen via default horizon dashboard, which makes calls to the keystone API for authentication of users](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/3/html/Getting_Started_Guide/images/access_dashboard.png "Default login screen which makes 'calls to the keystone project API to login users")
+![Image of OpenStack login screen via default horizon dashboard, which makes calls to the keystone API for authentication of users](/Selection_063.png "Default login screen which makes 'calls to the keystone project API to login users")
 
 You can collect points by sending a tweet with a picture showing buttons which make calls to:
   - [ ] Nova = +1 Stacker points
