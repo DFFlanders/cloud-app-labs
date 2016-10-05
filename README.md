@@ -90,8 +90,23 @@ About this lab:
  
 --> [Get started on this Cloud App Lab now!](/StackHeal)
 
-# Cloud App Lab no.???
+# Future Cloud App Labs coming soon!
 
+## Cloud App Lab no.7 - [StackDock: launch Docker on OpenStack then launch an a cloud app within Docker](/StackDock)
+
+About this lab:
+ - What you'll learn:
+ - Lab difficulty level
+ - StackerSwag points: 
+ 
+## Cloud App Lab no.8 - [StackPod: launch Kubernetes on OpenStack and get a cloud app working within K8S](/StackPod)
+
+About this lab:
+ - What you'll learn:
+ - Lab difficulty level
+ - StackerSwag points: 
+ 
+# Cloud App Lab no.Z - StackFoo: do you have an idea for a self-paced cloud app lab, click the branch button now ;0)
 Do you have an idea for a lab?  
 Please do suggest!  Or just 'fork' and 'pull' now :)
 
