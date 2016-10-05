@@ -2,7 +2,7 @@
 
 Welcome to the OpenStack Cloud App Lounge!  Below you will find the first (1of6) app lab challenges.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md).  
 
-# Lab learning onbjectives (by completing this lab you will know how to...)
+# Lab learning objectives (by completing this lab you will know how to...)
  - ...identify the core project APIs which make up all OpenStack powered clouds.
  - ...meet key community members who can help you navigate the world of OpenStack.
  - ...understand the diligence of community based code review (as per the OpenStack-way of +1/+2 code review).
