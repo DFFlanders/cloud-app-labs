@@ -81,7 +81,7 @@ About this lab:
 
  --> [Get started on this Cloud App Lab now!](/StackData)
  
- # Cloud App Lab no.6 - [StackHeal: start to create self-healing workers to monitor and rebuild different parts of your cloud applicaiton in situ.](/StackHeal.md)
+# Cloud App Lab no.6 - [StackHeal: start to create self-healing workers to monitor and rebuild different parts of your cloud applicaiton in situ.](/StackHeal.md)
 
 About this lab:
  - What you'll learn in this lab:
