@@ -1,6 +1,6 @@
 .#!= don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq)
 
-Welcome to the OpenStack Cloud App Lounge!  We have several fun lab challenges for you to complete so you can start your training to become a ['cloud application engineer'](/cloud-application-engineer).  
+Welcome to the OpenStack Cloud App Lounge!  Below you will find the first (1of6) app lab challenges.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md).  
 
 # Lab learning onbjectives (by completing this lab you will know how to...)
  - ...identify the core project APIs which make up all OpenStack powered clouds.
