@@ -94,7 +94,7 @@ About this lab:
 
 # Future Cloud App Labs coming soon!
 
-  ## Cloud App Lab no.NN - StackContainers: start splitting out the state of your app workers to be more agile (self healing) as containers which can dynamically shift accross datacentres worldwide.
+  ## Cloud App Lab no.7 - StackContainers: start splitting out the state of your app workers to be more agile (self healing) as containers which can dynamically shift accross datacentres worldwide.
 
 About this lab:
  - What you'll learn:
@@ -103,7 +103,7 @@ About this lab:
 
   --> coming soon...
 
-  ## Cloud App Lab no.7 - [StackDock: launch Docker on OpenStack then launch an a cloud app within Docker](/StackDock.md)
+  ## Cloud App Lab no.8 - [StackDock: launch Docker on OpenStack then launch an a cloud app within Docker](/StackDock.md)
 
 About this lab:
  - What you'll learn:
@@ -112,7 +112,7 @@ About this lab:
  
   --> coming soon...
  
-  ## Cloud App Lab no.8 - [StackPod: launch Kubernetes on OpenStack and get a cloud app working within K8S](/StackPod.md)
+  ## Cloud App Lab no.9 - [StackPod: launch Kubernetes on OpenStack and get a cloud app working within K8S](/StackPod.md)
 
 About this lab:
  - What you'll learn:
