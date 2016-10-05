@@ -93,6 +93,7 @@ About this lab:
   --> [Get started on this Cloud App Lab now!](/StackHeal.md)
 
 # Future Cloud App Labs coming soon!
+Stay tuned for these future cloud app labs...
 
   ## Cloud App Lab no.7 - StackContainers: start splitting out the state of your app workers to be more agile (self healing) as containers which can dynamically shift accross datacentres worldwide.
 
