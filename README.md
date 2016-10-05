@@ -1,6 +1,6 @@
 # Cloud App Labs at OpenStack Summit Barcelona 2016
 
-![openstack summit barcelona](/Cloud App Labs Barcelona.png)
+![Cloud App Labs at the OpenStack Summit in Barcelona Spain](/Cloud App Labs Barcelona.png)
 
 Welcome to the OpenStack Summit.  The following 'Cloud App Labs' are part of the growing 'OpenStack Application Academy' and will be located in the Summit Marketplace aka Expo Hall. This repository contains a series of 'cloud app labs' to help you get self-started with becoming a cloud application engineer - the future of app development.
 
@@ -16,6 +16,8 @@ Overall Learning Objectives (by completing these labs you will know how to...)
 Depending on your skill level, each lab will take anywhere from five to forty-five minutes.
 Labs are designed to start easy and get more difficult, so as to keep you playfully challenged.
 You can get help on each lab by simply hanging out in the "App Engineering Lounge" and asking for help at the info-desk; or you can ask for someone to come and find you via [#cloudapps](https://twitter.com/hashtag/cloudapps) hashtag on twitter (we'll be monitorring [#OpenStack](https://twitter.com/hashtag/OpenStack) #CloudApp Q's throughout).
+
+![Win Stacker Swag by completing these Cloud App Labs](/Cloud App Labs Barcelona.png)
 
 The process for completing labs and earining points is simple:
  1. select a lab (below) to complete;
@@ -95,7 +97,7 @@ About this lab:
 # Future Cloud App Labs coming soon!
 Stay tuned for these future cloud app labs...
 
-  ## Cloud App Lab no.7 - StackContainers: start splitting out the state of your app workers to be more agile (self healing) as containers which can dynamically shift accross datacentres worldwide.
+ ## Cloud App Lab no.7 - StackContainers: start splitting out the state of your app workers to be more agile (self healing) as containers which can dynamically shift accross datacentres worldwide.
 
 About this lab:
  - What you'll learn:
@@ -104,7 +106,7 @@ About this lab:
 
   --> coming soon...
 
-  ## Cloud App Lab no.8 - [StackDock: launch Docker on OpenStack then launch an a cloud app within Docker](/StackDock.md)
+ ## Cloud App Lab no.8 - [StackDock: launch Docker on OpenStack then launch an a cloud app within Docker](/StackDock.md)
 
 About this lab:
  - What you'll learn:
@@ -113,7 +115,7 @@ About this lab:
  
   --> coming soon...
  
-  ## Cloud App Lab no.9 - [StackPod: launch Kubernetes on OpenStack and get a cloud app working within K8S](/StackPod.md)
+ ## Cloud App Lab no.9 - [StackPod: launch Kubernetes on OpenStack and get a cloud app working within K8S](/StackPod.md)
 
 About this lab:
  - What you'll learn:
