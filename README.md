@@ -23,7 +23,7 @@ You can get help on each lab by simply hanging out in the "Lab Lounge" and askin
 **Best of all win points which will earn you Stack swag!**
 ![Win Stacker Swag by completing these Cloud App Labs](https://pbs.twimg.com/media/CuNYDXsWIAARjHb.jpg:large)
 
-The process for completing labs and earining points is simple:
+The process for completing labs and earining Stacker points is simple:
  1. select a lab (below) to complete;
  2. get help to complete the lab;
  3. show your lab result to the community to get points;
