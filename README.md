@@ -1,6 +1,6 @@
 # Cloud App Labs at OpenStack Summit Barcelona 2016
 
-![Cloud App Labs at the OpenStack Summit in Barcelona Spain](/Cloud App Labs Barcelona.png)
+![Cloud App Labs at the OpenStack Summit in Barcelona Spain](https://pbs.twimg.com/media/CuN700EWEAAo4xK.jpg:large)
 
 Welcome to the OpenStack Summit.  The following 'Cloud App Labs' are part of the growing 'OpenStack Application Academy' and will be located in the Summit Marketplace (aka Expo Hall). This repository contains a series of 'cloud app labs' to help you get self-started with becoming a cloud application engineer - the future of app development.
 
