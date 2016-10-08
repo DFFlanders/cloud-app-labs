@@ -22,3 +22,10 @@ Welcome to the OpenStack Cloud App Lounge!  Below you will find the second (2of6
   ## Lab pros who can help (open source is about knowing *who* as much as it is about knowing *what*)
 
 Stuck on this lab, need some help to solve?  [Ping one of our Cloud App Lab Pros on Twitter or IRC](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=false&delayms=2000)
+
+# Solving the lab
+
+Having trouble?  Sit back and watch someone else solve the challenge ;-)
+
+[![Watch how to connect to the OVH cloud with OS-Cloud-Config.py library and a clouds.yaml file with your authentication details](http://img.youtube.com/vi/7s7LKdih2vA/0.jpg)](http://www.youtube.com/watch?v=7s7LKdih2vA)
+
