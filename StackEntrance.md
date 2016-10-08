@@ -6,14 +6,15 @@ Welcome to the OpenStack Cloud App Lounge!  Below you will find the second (2of6
  - [x] ...find the API endpoints for each OpenStack cloud so you can control the datacentre via command line (instead of clicking buttons on a dashboard).
  - [x] ...connect to 2+ more OpenStack powered clouds so you can build applications at the datacentre of your choosing.
  
- ## Lab challenge context:
+ ## Context for completing the lab:
  Because of EU Safe Harbour laws the cloud application you have just built requires that it be run from two different European countries.  Fortunatley, OpenStack has numerous OpenStack powered clouds which you can choose from to run your cloud app.  
  
- ## To win the StackerPoints for this challenge:
-  - Show that you have connected to two different datacenters by posting two public URLs which can be pinged 
-  - ask for one of the Cloud App Lab Pros to verify that these two URLs are pingable by giving your tweet a "❤". 
+ ## Win StackerPoints for completing this lab:
+  - Show that you have connected to two different datacenters by tweeting two public URLs which can be pinged by one of our [Cloud App Lab Pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=false&delayms=2000).  Use the hashtag [#CloudApp](https://twitter.com/hashtag/cloudapp) to get the attention of a pro.
+  - Ask for one of the Cloud App Lab Pros to verify that these two URLs are pingable by giving your tweet a "❤". 
+  - 
 
- ## Ingredients you will need to complete this lab:
+ ## Ingredients you'll need to complete the lab:
   
   - You'll need [accounts on each cloud you are going to use](/prereq.md).  Hint: if the cloud you are using is a native OpenStack cloud then you should be able to find the endpoints via the dashboard: Compute > Access & Security > API Access.
   - Find the API endpoints for the clouds you want to work with via (http://docs.openstack.org/developer/os-client-config/vendor-support.html)
