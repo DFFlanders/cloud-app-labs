@@ -1,8 +1,9 @@
 # StackEntrance Lab
-![your own personal keys to datacentres around the world!](https://pbs.twimg.com/media/ClAqiubUoAAEK4p.jpg)
 .#!= don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq)
 
 Welcome to the OpenStack Cloud App Lounge!  Below you will find the second (2of6) app lab challenges.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md). 
+
+![your own personal keys to datacentres around the world!](https://pbs.twimg.com/media/ClAqiubUoAAEK4p.jpg)
 
 # Lab learning objectives (by completing this lab you will know how to...)
  - [x] ...find the API endpoints for each OpenStack cloud so you can control the datacentre via command line (instead of clicking buttons on a dashboard).
@@ -14,7 +15,6 @@ Welcome to the OpenStack Cloud App Lounge!  Below you will find the second (2of6
  ## Win StackerPoints for completing this lab:
   - Show that you have connected to two different datacenters by tweeting two public URLs which can be pinged by one of our [Cloud App Lab Pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=false&delayms=2000).  Use the hashtag [#CloudApp](https://twitter.com/hashtag/cloudapp) to get the attention of a pro.
   - Ask for one of the Cloud App Lab Pros to verify that these two URLs are pingable by giving your tweet a "❤". 
-  - 
 
  ## Ingredients you'll need to complete the lab:
   
@@ -22,9 +22,13 @@ Welcome to the OpenStack Cloud App Lounge!  Below you will find the second (2of6
   - Find the API endpoints for the clouds you want to work with via (http://docs.openstack.org/developer/os-client-config/vendor-support.html)
   - [Install the os-cloud-config library so your laptop can talk to any OpenStack cloud in the world](http://docs.openstack.org/developer/os-cloud-config/installation.html).  Hint: save your cloud credentials in a clouds.yaml file for ease of use.
   
-  ## Lab pros who can help (open source is about knowing *who* as much as it is about knowing *what*)
+  ## Lab pros who can help you complete the lab (open source is about knowing *who* as much as it is about knowing *what*)
 
-Stuck on this lab, need some help to solve?  [Ping one of our Cloud App Lab Pros on Twitter or IRC](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=false&delayms=2000)
+Stuck on this lab, need some help to solve?  [Ping one of our Cloud App Lab Pros on Twitter/IRC](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=false&delayms=2000)
+
+Recommended pros:
+ - @
+ - @
 
 # Solving the lab
 
