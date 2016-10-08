@@ -29,3 +29,6 @@ Having trouble?  Sit back and watch someone else solve the challenge ;-)
 
 [![Watch how to connect to the OVH cloud with OS-Cloud-Config.py library and a clouds.yaml file with your authentication details](http://img.youtube.com/vi/7s7LKdih2vA/0.jpg)](http://www.youtube.com/watch?v=7s7LKdih2vA)
 
+[![Watch how to connect to the OVH cloud with OS-Cloud-Config.py library and a clouds.yaml file with your authentication details](http://img.youtube.com/vi/pwq0_FQIAHk/0.jpg)](http://www.youtube.com/watch?v=pwq0_FQIAHk)
+
+
