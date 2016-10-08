@@ -7,18 +7,18 @@ Welcome to the OpenStack Summit.  The following 'Cloud App Labs' are part of the
 TL;DR = Learn the skills to become a 'Cloud Application Engineer' - ask Q's anytime by sending a tweet which includes [#CloudApp](https://twitter.com/hashtag/cloudapp) + your question which one of our [cloud app pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) will answer.
 
 Overall Learning Objectives (by completing these labs you will know how to...)
- - [x] work as part of a cloud app team, whose collaboration with one another is paramount for success.
- - [x] be inpsired to build cloud apps which are cross-cloud (not locked into cloud operating systems).
- - [x] understand how to recover from failure by engaging the wider OpenStack developer community.
- - [x] make cloud apps which are simple (constrained at the start so they can be further configured as they evolve).
- - [x] know where to go to for further help and ideas for building the cloud app of the future.
+ - [x] ...work as part of the growing cloud app community, to understand the significance of working as part of a multi-factor cloud application team.
+ - [x] ...be inspired to build cloud apps which are cross-cloud (not locked into single cloud operating infrastructure systems).
+ - [x] ...understand how to recover from failure by engaging the wider OpenStack community (NetEng, SysAdmin, DevOpps, AppDev, UX, etc).
+ - [x] ...make cloud apps which are simple (constrained at the start so they can be further configured as they evolve).
+ - [x] ...know where to go to for further learning resources and community ideas for building the cloud apps of the future.
 
-The overall aim of the cloud apps lab lounge is to connect you with likeminded cloud application community members who are evolving the thinking on how to engineer cloud apps which will work cross-cloud.
+The overall aim of the cloud apps lab lounge is to connect you with likeminded cloud application community members who are evolving the thinking on how to engineer cloud apps which will work interoperably accross various cloud infrastructures. AKA say 'no' to cloud app lock-in.
 
 Depending on your skill level, each lab will take anywhere from five to forty-five minutes.
 Labs are designed to start easy and get more difficult, so as to keep you playfully challenged.
 
-You can get help on each lab by simply hanging out in the "Lab Lounge" and asking for help at the info-desk; or you can ask one of our [app pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) to come and find you by tweeting your question plus using the [#cloudapps](https://twitter.com/hashtag/cloudapps) hashtag via twitter/irc (we'll continually monitor #OpenStack channels).
+You can get help on each lab by simply hanging out in the "Lab Lounge" and asking for help at the info-desk; or you can ask one of our [app pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) to come and find you.  Get help by tweeting your question plus using the [#cloudapps](https://twitter.com/hashtag/cloudapps) hashtag via twitter/irc (we'll continually monitor #OpenStack channels).
 
 **Best of all, win points by completing labs which will earn you Stacker swag!**
 ![Win Stacker Swag by completing these Cloud App Labs](https://pbs.twimg.com/media/CuNYDXsWIAARjHb.jpg:large)
@@ -35,8 +35,7 @@ To get you started you'll need to have the following pre-requisites:
  * basic Python scripting skills
  * an account on one of the many OpenStack public clouds: if you don't have one, we have one for you.
  * an SSH key and basic understanding for how to apt-get install applications on the cloud (only very basic).
-
---> [Setup your laptop to work with an OpenStack powered datacenter to do a cloud app lab.](/prereq.md)
+ * #!--> [Setup your laptop to work with an OpenStack powered datacenter to do a cloud app lab.](/prereq.md)
 
 # List of Cloud Application Laboratories
 Let's get started, pick a lab:
