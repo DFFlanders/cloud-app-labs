@@ -20,7 +20,7 @@ Labs are designed to start easy and get more difficult, so as to keep you playfu
 
 You can get help on each lab by simply hanging out in the "Lab Lounge" and asking for help at the info-desk; or you can ask one of our [app pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) to come and find you by tweeting your question plus using the [#cloudapps](https://twitter.com/hashtag/cloudapps) hashtag via twitter/irc (we'll continually monitor #OpenStack channels).
 
-**Best of all win points by completing labs which will earn you Stacker swag!**
+**Best of all, win points by completing labs which will earn you Stacker swag!**
 ![Win Stacker Swag by completing these Cloud App Labs](https://pbs.twimg.com/media/CuNYDXsWIAARjHb.jpg:large)
 
 The process for completing labs and earining Stacker points is simple:
@@ -37,11 +37,6 @@ To get you started you'll need to have the following pre-requisites:
  * an SSH key and basic understanding for how to apt-get install applications on the cloud (only very basic).
 
 --> [Setup your laptop to work with an OpenStack powered datacenter to do a cloud app lab.](/prereq.md)
-
-## Contribute your own app lab!
-
-If you have an idea for a fun app lab which we can add to this repository, please don't hesitate to branch/pull.
-
 
 # List of Cloud App Labs
 Let's get started, pick a lab:
