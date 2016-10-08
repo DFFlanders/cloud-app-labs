@@ -35,7 +35,7 @@ To get you started you'll need to have the following pre-requisites:
  * basic Python scripting skills
  * an account on one of the many OpenStack public clouds: if you don't have one, we have one for you.
  * an SSH key and basic understanding for how to apt-get install applications on the cloud (only very basic).
- * #!--> [Setup your laptop to work with an OpenStack powered datacenter to do a cloud app lab.](/prereq.md)
+ * #!--> [Setup your laptop to work with an OpenStack powered datacenter](/prereq.md)
 
 # List of Cloud Application Laboratories
 Let's get started, pick a lab:
