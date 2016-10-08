@@ -1,3 +1,5 @@
+# StackEntrance Lab
+![your own personal keys to datacentres around the world!](https://pbs.twimg.com/media/ClAqiubUoAAEK4p.jpg)
 .#!= don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq)
 
 Welcome to the OpenStack Cloud App Lounge!  Below you will find the second (2of6) app lab challenges.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md). 
