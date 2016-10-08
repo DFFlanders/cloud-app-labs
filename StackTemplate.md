@@ -1,4 +1,4 @@
-# StackFoobar Lab
+# StackFoobar Application Laboratory
 
 .#!= don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq)
 Welcome to the OpenStack Cloud App Lounge!  Below you will find the _______ (Nof6) app lab challenges.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md). 
