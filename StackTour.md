@@ -7,10 +7,10 @@ Welcome to the OpenStack Cloud App Lounge!  Below you will find the first (1of6)
  - ...meet key community members who can help you navigate the world of OpenStack.
  - ...understand the diligence of community based code review (as per the OpenStack-way of +1/+2 code review).
 
-## Lab challenge context:
+ ## Lab challenge context:
 Imagine your boss has just asked you to give them an overview of which OpenStack projects the company should get involved with given your companies users needs to use OpenStack.  As fast as you can (your meeting is in fifteen minutes!), you need to provide pictures of which buttons in the OpenStack dashboard apply to which projects (your bosses don't understand code, they have just since the Horizon dashboard).  Most importantly don't forget that your boss will ask you for contacts in the OpenStack community so you can start asking questions on how to get involved.  Start building that rolodex of community contacts!
 
-## How to complete this lab (to win your StackSwag points):
+ ## How to complete this lab (to win your StackSwag points):
 --> You'll get Stacker swag point(s) for every picture you tweet showing a button on an OpenStack cloud which represents the following [core OpenStack projects](https://www.openstack.org/software/project-navigator/).  For example, here is a picture of a button which works with the Keystone project API.
 
 You can collect points by sending a tweet (example below) with a picture show a button which make an API call to:
