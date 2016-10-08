@@ -17,7 +17,7 @@ Depending on your skill level, each lab will take anywhere from five to forty-fi
 Labs are designed to start easy and get more difficult, so as to keep you playfully challenged.
 You can get help on each lab by simply hanging out in the "App Engineering Lounge" and asking for help at the info-desk; or you can ask for someone to come and find you via [#cloudapps](https://twitter.com/hashtag/cloudapps) hashtag on twitter (we'll be monitorring [#OpenStack](https://twitter.com/hashtag/OpenStack) #CloudApp Q's throughout).
 
-![Win Stacker Swag by completing these Cloud App Labs](/Cloud App Labs Barcelona.png)
+![Win Stacker Swag by completing these Cloud App Labs](https://pbs.twimg.com/media/CuNYDXsWIAARjHb.jpg:large)
 
 The process for completing labs and earining points is simple:
  1. select a lab (below) to complete;
