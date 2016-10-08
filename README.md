@@ -38,7 +38,7 @@ To get you started you'll need to have the following pre-requisites:
 
 --> [Setup your laptop to work with an OpenStack powered datacenter to do a cloud app lab.](/prereq.md)
 
-# List of Cloud App Labs
+# List of Cloud Application Laboratories
 Let's get started, pick a lab:
 
 ## Cloud App Lab no.1 - [StackTour: an overview of OpenStack projects as per the buttons they relate to on the Web dashboard.](/StackTour.md)
