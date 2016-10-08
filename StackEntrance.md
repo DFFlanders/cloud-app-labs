@@ -36,7 +36,7 @@ Recommended cloud app pros who can help:
  - @
 
 # Solving the lab
-Having trouble?  Sit back and watch someone else solve the challenge ;-)
+Having trouble?  Sit back and watch someone else solve the lab challenge ;-)
 
 [![Watch how to connect to the OVH cloud with OS-Cloud-Config.py library and a clouds.yaml file with your authentication details](http://img.youtube.com/vi/7s7LKdih2vA/0.jpg)](http://www.youtube.com/watch?v=7s7LKdih2vA)
 
