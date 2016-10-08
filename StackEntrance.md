@@ -22,7 +22,7 @@ Welcome to the OpenStack Cloud App Lounge!  Below you will find the second (2of6
 
  ## Ingredients you'll need to complete the lab:
   - You'll need [accounts on each cloud you are going to use](/prereq.md).  Hint: if the cloud you are using is a native OpenStack cloud then you should be able to find the endpoints via the dashboard: Compute > Access & Security > API Access.
-  - Find the API endpoints for the clouds you want to work with via (http://docs.openstack.org/developer/os-client-config/vendor-support.html)
+  - Find the API endpoints for the clouds you want to work with via (http://docs.openstack.org/developer/os-client-config/vendor-support.html).  Hint:  `cloud_config = os_client_config.OpenStackConfig().get_all_clouds()`
   - [Install the os-cloud-config library so your laptop can talk to any OpenStack cloud in the world](http://docs.openstack.org/developer/os-cloud-config/installation.html).  Hint: save your cloud credentials in a clouds.yaml file for ease of use.
   
  ## Lab pros who can help you complete the lab 
