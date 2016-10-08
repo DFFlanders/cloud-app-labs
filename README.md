@@ -52,7 +52,7 @@ About this lab:
  - Lab level: intermediate, need to understand basic authentication via command line, use of yaml as a simple structured document for storring login details.
  - Stackers can score: +3 points for completing this lab.
 
-## Cloud App Lab no.3 - [StackClouds: cross-cloud apps (say 'no' to cloud app lock-in)](/StackClouds.md)
+## Cloud App Lab no.3 - [StackControl: cross-cloud apps (say 'no' to cloud app lock-in)](/StackControl.md)
 About this lab:
  - What you'll lean in this lab: shade_test.py --> public IP
  - Lab level: intermediate 
