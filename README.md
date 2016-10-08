@@ -50,7 +50,7 @@ If you have an idea for a fun app lab which we can add to this repository, pleas
 
   --> [Get start on this CloudAppLab now](/StackTour.md)
 
-# Cloud App Lab no.2 - [StackEntrance: having your own personal entrace to all OpenStack public clouds worldwide](/StackerEntrance.md)
+# Cloud App Lab no.2 - [StackEntrance: having your own personal entrace to all OpenStack public clouds worldwide](/StackEntrance.md)
 About this lab:
  - What you'll learn in this lab: how to configure your code so that you don't have to use the dashboard; instead, use simple python scripts to get access to datacenters (powered by OpenStack worldwide). Yes that's right, one simple file is all you need to access hundreds of clouds (clouds.yaml via lib os-cloud-config.py)
  - Lab level: intermediate, need to understand basic authentication via command line, use of yaml as a simple structured document for storring login details.
