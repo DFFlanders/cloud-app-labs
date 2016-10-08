@@ -13,13 +13,12 @@ Don't forget to [setup your laptop with the OpenStack powered cloud of your choi
 
 ## Learning context for completing the lab
  - A international consortium of University professors are releasing a series of scientific discoveries which are highly sensitive and likley to be contested (akin to WikiLeaks data but for the Scientific sector).  You can either use [the app which the professors have created](http://developer.openstack.org/firstapp-shade/introduction.html) or select another app which can host static HTML Web pages (e.g. wordpress, plone, etc).
-- You need to upload an application to the cloud (via shade) which would be easy to replicate on other clouds so if the first cloud application fails you can switch to another application which can host the data for read-only purposes.  NB for this excercise your applications do not need to be sync'd between different datacenters (aka state/less), as we'll cover app state in a future lab.  The professors just want to make sure the content is online and easy to access/read.
- - 
+ - You need to upload an application to the cloud (via shade) which would be easy to replicate on other clouds so if the first cloud application fails you can switch to another application which can host the data for read-only purposes.  NB for this excercise your applications do not need to be sync'd between different datacenters (aka state/less), as we'll cover app state in a future lab.  The professors just want to make sure the content is online and easy to access/read.
 
 ## Win StackerPoints for completing this lab:
-  - Win StackerPoints by tweeting a public URL(IP) showing an application running on the cloud which is able to display webpages. Hint: 
+  - Win StackerPoints by tweeting a public URL(IP) showing an application running on the cloud which is able to display webpages. Hint: sudo apt-get install 
   - Get one of the [Cloud App Pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) to "❤" your tweet.
-  - Once an App Pro has +1'd your tweet come and show your tweet to the helpdesk in the Cloud App Lab Lounge in the Marketplace (Expo Hall).
+  - Once an App Pro has +1'd your tweet come and show your tweet to the helpdesk in the Cloud App Lab Lounge in the Marketplace (Expo Hall) to claim your [StackerPoints](/StackerPoints).
 
 ## Ingredients you'll need for completing this lab:
   - [Building on the previous lab's library (os-cloud-config.py), you'll install and use the shade library to access and control the OpenStack powered datacetnre of your choice](https://github.com/openstack-infra/shade)
@@ -30,13 +29,13 @@ Don't forget to [setup your laptop with the OpenStack powered cloud of your choi
 ## Lab pros who can help you complete this lab:
 Stuck on this lab, need some help to solve?  [Ping one of our Cloud App Lab Pros on Twitter/IRC](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=false&delayms=2000). Hint: Community driven Open Source is about knowing *who* as much as it is about knowing *what*.
 
-Recommended cloud app pros who can help (via Twitter/IRC):
- - @brunomorel
- - @
- - @
+Recommended _cloud app pros_ who can help (via Twitter/IRC):
+ - @BrunouyVanMorel
+ - @SquidBoylan
+ - @JoannahHuang
  
 # Solving the lab
-Having trouble?  Sit back and watch someone else solve the challenge ;-)
+Having trouble?  Sit back and watch someone else solve this lab learning challenge ;-)
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/JyQHoDoypGM/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_JyQHoDoypGM)
 
