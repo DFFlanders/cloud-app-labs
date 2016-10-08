@@ -42,7 +42,9 @@ To get you started you'll need to have the following pre-requisites:
 
 If you have an idea for a fun app lab which we can add to this repository, please don't hesitate to branch/pull.
 
-... let's get started!
+
+**Let's get started...**
+
 
   ## Cloud App Lab no.1 - [StackTour: an overview of OpenStack projects as per the buttons they relate to on the Web dashboard.](/StackTour.md)
 
