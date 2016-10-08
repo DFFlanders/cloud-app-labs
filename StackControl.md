@@ -1,9 +1,10 @@
 # StackControl Application Laboratory
 
-.#!= don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq)
 Welcome to the OpenStack Cloud App Lounge!  Below you will find the third (3of6) app lab challenges.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md). 
 
 ![Cloud apps are the future...](https://pbs.twimg.com/media/CuJSGSrUEAAXoeK.jpg)
+
+Don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq)
 
 # Lab learning objectives _(by completing this lab you will know how to...)_
  - [x] ...control the hardware resources within a datacenter's (cloud) via ReSTful resources requests (CRUD).
