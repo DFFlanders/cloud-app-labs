@@ -47,7 +47,7 @@ About this lab:
  - [x] _Copmmunity you'll meet_ = people who are actively getting their users to launch their own applications using the dashboard and basic scripting skills.
  - [x] _Point's you'll score_ = up to +10 points for completing this lab. [What can I win with 10 StackerPoints?!](/StackerPoints.md)
 
-## Cloud App Lab no.2 - [StackEntrance: having your own personal entrace to all OpenStack public clouds worldwide](/StackEntrance.md)
+## Cloud App Lab no.2 - [StackEntrance: having your own personal entrance to all OpenStack public clouds worldwide](/StackEntrance.md)
 
 About this lab:
  - [x] _What you'll learn_ = how to configure your laptop to control a datacenter, so that you don't have to use a Web based dashboard; instead, use simple python scripts to get access to datacenters (powered by OpenStack worldwide). Yes that's right, one simple file is all you need to access hundreds of clouds (i.e. clouds.yaml via os-cloud-config.py)
@@ -91,7 +91,7 @@ About this lab:
  - [x] _Community you'll meet_ =
  - [x] _Points you'll score_ = 
 
-## Cloud App Lab no.8 - [StackDock: launch Docker on OpenStack then launch an a cloud app within Docker](/StackDock.md)
+## Cloud App Lab no.8 - [StackDock: launch Docker on OpenStack then launch a cloud app within Docker](/StackDock.md)
 About this lab:
  - [x] _What you'll learn_ =
  - [x] _Community you'll meet_ =
