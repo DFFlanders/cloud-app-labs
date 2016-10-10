@@ -61,7 +61,7 @@ About this lab:
  - [x] _Community you'll meet_ = people who understand how to enable application developers to use basic cloud skills for: a.) controlling a datacentre via command line API calls, and b.) using a simple python library (shade).
  - [x] _Points you'll score_ = +10 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
 
-## Cloud App Lab no.4 - [StackScale: installing an application with multiple workers at different datacenter locations around the world.](/StackState.md)
+## Cloud App Lab no.4 - [StackScale: installing an application with multiple workers at different datacenter locations around the world.](/StackScale.md)
 
 Aboout this lab:
  - [x] _What you'll learn_ = install an application whose data (state) needs to be maintained seperate from the stateless jobs of the application workers. 
