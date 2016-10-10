@@ -41,42 +41,46 @@ To get you started you'll need to have the following pre-requisites:
 Let's get started, pick a lab:
 
 ## Cloud App Lab no.1 - [StackTour: an overview of OpenStack projects as per the buttons they relate to on the Web dashboard.](/StackTour.md)
- - What you'll learn in this lab: which buttons on the OpenStack dashboard (Horizon) align with which OpenStack project (Nova, Neutron, Cinder, Swift, Glance, etc).
- - Skill level = n00b (easy), understand SSH keys and basics of launching VMs using the dashboard GUI.
- - Stackers can score = +1 point for completing this lab.
+
+About this lab:
+ - [x] Skills you'll learn = which buttons on the OpenStack dashboard (Horizon) connect with the other core OpenStack projects (Nova, Neutron, Cinder, Swift, Glance, etc).
+ - [x] Copmmunity you'll meet = contacts who are actively getting their users to launch their own application using the dashboard and basic scripting skills.
+ - [x] Point's you'll score = up to +10 points for completing this lab. [What can I win with 10 StackerPoints?!](/StackerPoints.md)
 
 ## Cloud App Lab no.2 - [StackEntrance: having your own personal entrace to all OpenStack public clouds worldwide](/StackEntrance.md)
-About this lab:
- - What you'll learn in this lab: how to configure your code so that you don't have to use the dashboard; instead, use simple python scripts to get access to datacenters (powered by OpenStack worldwide). Yes that's right, one simple file is all you need to access hundreds of clouds (clouds.yaml via lib os-cloud-config.py)
- - Lab level: intermediate, need to understand basic authentication via command line, use of yaml as a simple structured document for storring login details.
- - Stackers can score: +3 points for completing this lab.
 
-## Cloud App Lab no.3 - [StackControl: cross-cloud apps (say 'no' to cloud app lock-in)](/StackControl.md)
 About this lab:
- - What you'll lean in this lab: shade_test.py --> public IP
- - Lab level: intermediate 
- - Stackers can score: +5 points for completing this lab.
+ - [x] What you'll learn = how to configure your code so that you don't have to use the dashboard; instead, use simple python scripts to get access to datacenters (powered by OpenStack worldwide). Yes that's right, one simple file is all you need to access hundreds of clouds (i.e. clouds.yaml via os-cloud-config.py)
+ - [x] Community you'll meet = people who understand the basics skills for: a.) authentication via command line, b.) use of YAML as a simple structured document for storring login details, and c.) basic (beginner) control of a datacentre via command line API calls.
+ - [x] Points you'll score: +10 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
 
-## Cloud App Lab no.4 - [StackCentres: installing an application with multiple workers at different locations around the world.](/StackCentres.md)
+## Cloud App Lab no.3 - [StackControl: how to upload and control a muti-factor application to OpenStack-powered datacenters arounds the planet](/StackControl.md)
+
+About this lab:
+ - What you'll learn: how to upload an application to a datacentre cloud using basic command line python code.
+ - Community you'll meet: people who understand the intermediate skills for: controlling a datacentre via command line API calls using a simple python library (shade).
+ - Points you'll score: +10 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
+
+## Cloud App Lab no.4 - [StackCentres: installing an application with multiple workers at different datacenter locations around the world.](/StackCentres.md)
 
 Aboout this lab:
  - What you'll learn in this lab: shade --> install fractals app --> 
- - Lab level: advanced
- - Stackers can score: +10 points for completing this lab.
+ - Community you'll meet: advanced
+ - Points you'll score: +10 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
 
 ## Cloud App Lab no.5 - [StackData: attaching storage to your multi-factor app, undertanding state/less app architectures.](/StackData.md)
 
 About this lab:
  - What you learn in this lab: shade --> attach cinder volume --> 
- - Lab level:
- - Stackers can score: 
+ - Community you'll meet:
+ - Points you'll score: NN points [What can I win with my StackerPoints?!](/StackerPoints.md)
  
 ## Cloud App Lab no.6 - [StackHeal: start to create self-healing workers to monitor and rebuild different parts of your cloud applicaiton in situ.](/StackHeal.md)
 
 About this lab:
- - What you'll learn in this lab:
- - Lab difficulty level: advanced, understanding of application architectures and orchstration frameworks...
- - Stackers can score: +15 points for completing this lab.
+ - What you'll learn:
+ - Community you'll meet: advanced, understanding of application architectures and orchstration frameworks...
+ - Points you'll score: +15 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
 
 # Future Cloud App Labs coming soon!
 Stay tuned for these future cloud app labs...
@@ -84,14 +88,14 @@ Stay tuned for these future cloud app labs...
 ## Cloud App Lab no.7 - StackContainers: start splitting out the state of your app workers to be more agile (self healing) as containers which can dynamically shift accross datacentres worldwide.
 About this lab:
  - What you'll learn:
- - Lab difficulty level
- - StackerSwag points: 
+ - Community you'll meet:
+ - Points you'll score: 
 
 ## Cloud App Lab no.8 - [StackDock: launch Docker on OpenStack then launch an a cloud app within Docker](/StackDock.md)
 About this lab:
  - What you'll learn:
- - Lab difficulty level
- - StackerSwag points: 
+ - Community you'll meet:
+ - Points you'll score: 
  
 ## Cloud App Lab no.9 - [StackPod: launch Kubernetes on OpenStack and get a cloud app working within K8S](/StackPod.md)
 
