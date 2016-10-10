@@ -43,9 +43,9 @@ Let's get started, pick a lab:
 ## Cloud App Lab no.1 - [StackTour: an overview of OpenStack projects as per the buttons they relate to on the Web dashboard.](/StackTour.md)
 
 About this lab:
- - [x] Skills you'll learn = which buttons on the OpenStack dashboard (Horizon) connect with the other core OpenStack projects (Nova, Neutron, Cinder, Swift, Glance, etc).
- - [x] Copmmunity you'll meet = contacts who are actively getting their users to launch their own application using the dashboard and basic scripting skills.
- - [x] Point's you'll score = up to +10 points for completing this lab. [What can I win with 10 StackerPoints?!](/StackerPoints.md)
+ - [x] **Skills you'll learn** = which buttons on the OpenStack dashboard (Horizon) connect with the other core OpenStack projects (Nova, Neutron, Cinder, Swift, Glance, etc).
+ - [x] **Copmmunity you'll meet** = contacts who are actively getting their users to launch their own application using the dashboard and basic scripting skills.
+ - [x] **Point's you'll score** = up to +10 points for completing this lab. [What can I win with 10 StackerPoints?!](/StackerPoints.md)
 
 ## Cloud App Lab no.2 - [StackEntrance: having your own personal entrace to all OpenStack public clouds worldwide](/StackEntrance.md)
 
