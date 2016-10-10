@@ -1,8 +1,8 @@
-# StackFoobar Application Laboratory
+# StackState Application Laboratory
 
-Welcome to the OpenStack Cloud App Lounge!  Below you will find the FOOBAR (Nof6) app lab challenges.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md). 
+Welcome to the OpenStack Cloud App Lounge!  Below you will find the fourth (4of6) app lab challenge.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md). 
 
-![Foobar description of picture](https://foobar.png)
+![State or stateless? The key question for every cloud applicaiton engineer to understand.](https://tctechcrunch2011.files.wordpress.com/2015/11/shutterstock_229442263.jpg)
 
 Don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq)
 
