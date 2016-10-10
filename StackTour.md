@@ -17,19 +17,19 @@ Don't forget to [setup your laptop with the OpenStack powered cloud of your choi
   - To best explain OpenStack to the bosses, magine that each project is an robot and that project-robot goes off and does something for the user.  You need to explain what each robot does!
   - If Google isn't fast enough get one of the Cloud App Pros to help, ask questions!  Go, go, go!
   - Remember your boses won't understand all the functions of robots which work for each project, so you need to have simple (tweetable) explanations.
-  Provide pictures of which buttons in the OpenStack dashboard apply to which project-robot (your bosses don't understand code, they have just since the Horizon dashboard).  Most importantly don't forget that your boss will ask you for contacts in the OpenStack community so you can start asking questions on how to get involved.  Start building that rolodex of community contacts!
+  - Most importantly don't forget that your boss will ask you for contacts in the OpenStack community so you can start asking questions on how to get involved.  Start building that rolodex of community contacts!
 
  ## How to complete this lab (to win your StackSwag points):
---> You'll get Stacker swag point(s) for every picture you tweet showing a button on an OpenStack cloud which represents the following [core OpenStack projects](https://www.openstack.org/software/project-navigator/).  For example, here is a picture of a button which works with the Keystone project API.
+  - Tweet a picture of a button on the OpenStack button and explain what kind of robot it is!
+  - You'll get Stacker swag point(s) for every picture you tweet showing a button which represents one of the different Core OpenStack projects (see below).
+  - Send pictures for the following OpenStack project-robots along with what this army of project robots can do!
+   - [ ] Nova = +1 StackerSwag points
+   - [ ] Neutron = +1 StackerSwag points
+   - [ ] Swift = +1 StackerSwag points
+   - [ ] Cinder = +1 StackerSwag points
+   - [ ] Glance = +1 StackerSwag points
 
-You can collect points by sending a tweet (example below) with a picture show a button which make an API call to:
-  - [ ] Nova = +1 StackerSwag points
-  - [ ] Neutron = +1 StackerSwag points
-  - [ ] Swift = +1 StackerSwag points
-  - [ ] Cinder = +1 StackerSwag points
-  - [ ] Glance = +1 StackerSwag points
-
-![Image of OpenStack login screen via default horizon dashboard, which makes calls to the keystone API for authentication of users](/Selection_063.png "Default login screen which makes 'calls to the keystone project API to login users")
+![Image of OpenStack login screen via default horizon dashboard, which makes calls to the keystone API for authentication of users]( "Default login screen which makes 'calls to the keystone project API to login users")
   
 Once you've collected points for each of the core projects above, you can gain additional bonus points by tweeting an image of a button which makes calls to the following other 'big tent' projects (you can only collect point below after you've collected points from the above):
 
