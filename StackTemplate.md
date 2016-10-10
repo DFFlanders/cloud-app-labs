@@ -26,10 +26,10 @@ Don't forget to [setup your laptop with the OpenStack powered cloud of your choi
   - ingredient 2
   - ingredient 3
 
-## Lab pros who can help you complete this lab:
+## App pros who can help you complete this lab:
 Stuck on this lab, need some help to solve?  [Ping one of our Cloud App Lab Pros on Twitter/IRC](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=false&delayms=2000). NB Open Source is about knowing *who* as much as it is about knowing *what*.
 
-Recommended cloud app pros who can help (via Twitter/IRC):
+Recommended _cloud app pros_ who can help (via Twitter/IRC):
  - @
  - @
  - @
