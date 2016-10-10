@@ -6,7 +6,7 @@ Welcome to the OpenStack Summit.  The following 'Cloud App Labs' are part of the
 
 TL;DR = Learn the skills to become a 'Cloud Application Engineer' - ask Q's anytime by sending a tweet which includes [#CloudApp](https://twitter.com/hashtag/cloudapp) + your question which one of our [cloud app pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) will answer.
 
-Overall Learning Objectives (by completing these labs you will know how to...)
+Overall Learning Objectives (_by completing these labs you will know how to..._)
  - [x] ...work as part of the growing cloud app community, to understand the significance of working as part of a multi-factor cloud application team.
  - [x] ...be inspired to build cloud apps which are cross-cloud (not locked into single cloud operating infrastructure systems).
  - [x] ...understand how to recover from failure by engaging the wider OpenStack community (NetEng, SysAdmin, DevOpps, AppDev, UX, etc).
