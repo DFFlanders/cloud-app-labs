@@ -50,9 +50,9 @@ About this lab:
 ## Cloud App Lab no.2 - [StackEntrance: having your own personal entrace to all OpenStack public clouds worldwide](/StackEntrance.md)
 
 About this lab:
- - [x] What you'll learn = how to configure your code so that you don't have to use the dashboard; instead, use simple python scripts to get access to datacenters (powered by OpenStack worldwide). Yes that's right, one simple file is all you need to access hundreds of clouds (i.e. clouds.yaml via os-cloud-config.py)
- - [x] Community you'll meet = people who understand the basics skills for: a.) authentication via command line, b.) use of YAML as a simple structured document for storring login details, and c.) basic (beginner) control of a datacentre via command line API calls.
- - [x] Points you'll score: +10 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
+ - [x] _What you'll learn_ = how to configure your code so that you don't have to use the dashboard; instead, use simple python scripts to get access to datacenters (powered by OpenStack worldwide). Yes that's right, one simple file is all you need to access hundreds of clouds (i.e. clouds.yaml via os-cloud-config.py)
+ - [x] _Community you'll meet_ = people who understand the basics skills for: a.) authentication via command line, b.) use of YAML as a simple structured document for storring login details, and c.) basic (beginner) control of a datacentre via command line API calls.
+ - [x] _Points you'll score_ = +10 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
 
 ## Cloud App Lab no.3 - [StackControl: how to upload and control a muti-factor application to OpenStack-powered datacenters arounds the planet](/StackControl.md)
 
