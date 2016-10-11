@@ -7,11 +7,11 @@ Before you begin, don't forget to [setup your laptop with the OpenStack powered 
 ![Each OpenStack Project is a robot army witing for your push-button commands](https://pbs.twimg.com/media/CudcNaoUEAAHZBV.jpg:large)
 
 ## Lab challenge context:
-  - _Imagine_ the CTO of your company has just asked you to give the 'board of directors' an overview of which OpenStack projects the company should know about, so they can make a decision on where to have their engineers participate.
+  - _Imagine_ the CTO of your company has just asked you to give the 'board of directors' an overview of which OpenStack projects the company should know about; the board wants to make a decision on where to have their engineers participate.
   - As fast as you can (your meeting is in fifteen minutes!), you need to learn what each of the major OpenStack projects do and how they relate to the main OpenStack dashboard.  
-  - To best explain OpenStack to the bosses, imagine that each project is a robot and that project-robot goes off and does something for your user.  You need to explain what each robot army is capable of doing.  You'll need to describe the following robot armies and what they do = Nova, Neutron, Swift, Cinder, Glance and Keystone)!
+  - To best explain OpenStack to your bosses, imagine that each project is a robot and that project-robot goes off and does something for your user *via buttons on the OpenStack dashboard*.  You need to explain what each robot army is capable of doing via their buttons.  You'll need to describe the following robot armies and what they do = Nova, Neutron, Swift, Cinder, Glance and Keystone.
   - If Google isn't fast enough to discover what you need to know about each of the project-robots, [get one of the Cloud App Pros to help (they want to answer your questions!)](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000). Go, go, go!
-  - Remember your boses won't understand all the functions of each robot, so you need to have simple (tweetable) explanations of each robot army and what they can do for your orgnisation.
+  - Remember your boses won't understand all the functions of each robot, so you need to have simple (tweetable) explanations of each robot army and what they can do for your orgnisation per button on the dashboard.
   - Most importantly, don't forget that your boss will ask you for contacts in the OpenStack community so you can start asking questions on how to get involved.  Start building that rolodex of community contacts by asking for help!
   
 # Lab learning objectives (by completing this lab you will know how to...)
