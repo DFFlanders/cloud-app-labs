@@ -14,7 +14,7 @@ Before you begin, don't forget to [setup your laptop with the OpenStack powered 
   - Remember your boses won't understand all the functions of each robot, so you need to have simple (tweetable) explanations of each robot army and what they can do for your orgnisation per button on the dashboard.
   - Most importantly, don't forget that your boss will ask you for contacts in the OpenStack community so you can start asking questions on how to get involved.  Start building that rolodex of community contacts by asking for help!
   
-# Lab learning objectives (by completing this lab you will know how to...)
+## Lab learning objectives (by completing this lab you will know how to...)
  - [x] ...identify the core project APIs which make up all OpenStack powered clouds.
  - [x] ...meet key community members who can help you navigate the expanding world of OpenStack.
  - [x] ...understand the diligence of community based code review (as per the OpenStack-way of +1/+2 code review).
