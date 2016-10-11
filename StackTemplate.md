@@ -2,19 +2,19 @@
 
 Welcome to the OpenStack Cloud App Lounge!  Below you will find the FOOBAR (Nof6) app lab challenges.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md). 
 
-![Foobar description of picture](https://foobar.png)
-
 Don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq)
 
-# Lab learning objectives _(by completing this lab you will know how to...)_
- - [x] objective 1
- - [x] objective 2
- - [x] objective 3
+![picture to match lab context re below](https://foobar.png)
 
 ## Learning context for completing the lab
  - list 1
  - list 2
  - list 3
+
+# Lab learning objectives _(by completing this lab you will know how to...)_
+ - [x] objective 1
+ - [x] objective 2
+ - [x] objective 3
 
 ## Win StackerPoints for completing this lab:
   - win
