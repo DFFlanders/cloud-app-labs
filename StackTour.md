@@ -39,9 +39,10 @@ Once you've collected points for each of the core projects (nova, neutron, swift
  - [ ] Zun = = +2 StackerSwag points
  
 ## To redeem your points: 
- 1. Go to the 'Cloud App Lab' lounge helpdesk in the Marketplace (expo hall) and show your tweets+picture after they have been "❤'d" by one of our ['cloud app lab pros' via their twitter+irc handles](/cloud-app-lab-pros)
- 2. Don't forget to get your tweets +1'd with a heart ❤ as the OpenStack community believes in [community driven code review](https://wiki.openstack.org/wiki/How_To_Contribute)
- 3. Once you have [Stacker Points you can redeem them for Stacker swag](https://github.com/DFFlanders/cloud-app-labs/blob/master/StackerPoints.md)!
+ 1. Take a picture of a button which represents each of the OpenStack projects-robots.  Faster the better!
+ 2. Go to the 'Cloud App Lab' lounge helpdesk in the Marketplace (expo hall) and show your tweets+picture after they have been "❤'d" by one of our ['cloud app lab pros' via their twitter+irc handles](/cloud-app-lab-pros)
+ 3. Don't forget to get your tweets +1'd with a heart ❤ as the OpenStack community believes in [community driven code review](https://wiki.openstack.org/wiki/How_To_Contribute)
+ 4. Once you have [Stacker Points you can redeem them for Stacker swag](https://github.com/DFFlanders/cloud-app-labs/blob/master/StackerPoints.md)!
 
 ## Questions you might want to ask your friendly ['Cloud App Lab Pro'](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) via twitter/irc:
  - Why does OpenStack require all its code to be reviewed +1'd by a member of the OpenStack community and validated +2'd by a core contributor?
