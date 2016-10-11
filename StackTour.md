@@ -4,7 +4,7 @@ Welcome to the OpenStack Cloud App Lounge!  Below you will find the first 'cloud
 
 Before you begin, don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq) 
 
-![Each OpenStack Project is a robot army witing for your push-button commands](https://pbs.twimg.com/media/CudTUndVIAAiQnA.jpg:large)
+![Each OpenStack Project is a robot army witing for your push-button commands](https://pbs.twimg.com/media/CudcNaoUEAAHZBV.jpg:large)
 
 ## Lab challenge context:
   - _Imagine_ the CTO of your company has just asked you to give the 'board of directors' an overview of which OpenStack projects the company should know about, so they can make a decision on where to have their engineers participate.
