@@ -1,6 +1,6 @@
 # StackTour Application Laboratory
 
-Welcome to the OpenStack Cloud App Lounge!  Below you will find the first app lab challenges.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md). 
+Welcome to the OpenStack Cloud App Lounge!  Below you will find the first 'cloud app lab' challenges.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md) - the future of apps! 
 
 Before you begin, don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq) 
 
@@ -9,10 +9,10 @@ Before you begin, don't forget to [setup your laptop with the OpenStack powered 
 ## Lab challenge context:
   - _Imagine_ the CTO of your company has just asked you to give the 'board of directors' an overview of which OpenStack projects the company should know about, so they can make a decision on where to have their engineers participate.
   - As fast as you can (your meeting is in fifteen minutes!), you need to learn what each of the major OpenStack projects do and how they relate to the main OpenStack dashboard.  
-  - To best explain OpenStack to the bosses, imagine that each project is a robot and that project-robot goes off and does something for your user.  You need to explain what each robot does (robots armies to describe = Nova, Neutron, Swift, Cinder, Glance and Keystone)!
-  - If Google isn't fast enough to discover what you need to know about each of the project, [get one of the Cloud App Pros to help (they want to answer your questions!)](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000). Go, go, go!
+  - To best explain OpenStack to the bosses, imagine that each project is a robot and that project-robot goes off and does something for your user.  You need to explain what each robot army is capable of doing.  You'll need to describe the following robot armies and what they do = Nova, Neutron, Swift, Cinder, Glance and Keystone)!
+  - If Google isn't fast enough to discover what you need to know about each of the project-robots, [get one of the Cloud App Pros to help (they want to answer your questions!)](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000). Go, go, go!
   - Remember your boses won't understand all the functions of each robot, so you need to have simple (tweetable) explanations of each robot army and what they can do for your orgnisation.
-  - Most importantly don't forget that your boss will ask you for contacts in the OpenStack community so you can start asking questions on how to get involved.  Start building that rolodex of community contacts!
+  - Most importantly, don't forget that your boss will ask you for contacts in the OpenStack community so you can start asking questions on how to get involved.  Start building that rolodex of community contacts by asking for help!
   
 # Lab learning objectives (by completing this lab you will know how to...)
  - [x] ...identify the core project APIs which make up all OpenStack powered clouds.
