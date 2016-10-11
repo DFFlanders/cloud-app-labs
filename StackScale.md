@@ -1,10 +1,10 @@
 # StackScale Application Laboratory
 
-Welcome to the OpenStack Cloud App Lounge!  Below you will find the fourth (4of6) app lab challenge.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md). 
+Welcome to the OpenStack Cloud App Lounge!  Below you will find the fourth 'cloud app lab' challenge.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md) - the future of apps.
 
-![State or stateless? The key question for every cloud applicaiton engineer to understand.](https://tctechcrunch2011.files.wordpress.com/2015/11/shutterstock_229442263.jpg)
+Don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq).
 
-Don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq)
+![State or stateless? The key question for every cloud applicaiton engineer to understand.](https://pbs.twimg.com/media/Cudphb2VMAMjaO3.jpg:large)
 
 # Lab learning objectives _(by completing this lab you will know how to...)_
  - [x] objective 1
