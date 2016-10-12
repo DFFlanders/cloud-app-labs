@@ -7,14 +7,16 @@ Don't forget to [setup your laptop with the OpenStack powered cloud of your choi
 ![State or stateless? The key question for every cloud applicaiton engineer to understand.](https://pbs.twimg.com/media/Cudphb2VMAMjaO3.jpg:large)
 
 ## Learning context for completing the lab
- - list 1
- - list 2
- - list 3
+ - Imagine (fictionally): a recent scientific dsicovery from the CERN laboratories in Switzerland have revealed that fractals generated from prime numbers can predict the origins of the universe! 
+ - A group of proffessors have written an applicaiton which generates fractals, however their cloud application is being inundated with requests from researchers worldwide who want to generate fracts.
+ - The professors have hired your team to help scale their fractal applicaiton so that it can dynamically scale and generate as many fractals as are being requsted by Physics and Mathematics departments worldwide!
+ - Perhaps most importantly, the professors (being poor researchers) need you to demonstrate you are using datacenters which are cost effective and competitive with one another to help keep costs down (and to assure government research funding is being distributed to multiple infrastructure providers).
+ - Can your team enable this simple cloud application to scale globally while still keeping the data locally?!
 
 # Lab learning objectives _(by completing this lab you will know how to...)_
- - [x] ...re-factor your cloud application architecture to have multiple 'app workers' who can be dynamically scaled and located at any OpenStack-powered-datacentre worldwide.
+ - [x] ...re-factor your cloud application architecture to have multiple 'app workers' which can be dynamically scaled and placed at any OpenStack-powered-datacentre worldwide.
  - [x] ...meet community members who have built and maintained various stateless enterprise applications in production.
- - [x] ...understand the concpet 'state' (stateless/statefull) applications and the implications for different design patterns for managing various cloud app statlessness.
+ - [x] ...understand the concept of 'state' (stateless/statefull) applications and the implications for different design patterns for managing various _cloud app statless-ness_.
 
 ## Win StackerPoints for completing this lab:
   - win
