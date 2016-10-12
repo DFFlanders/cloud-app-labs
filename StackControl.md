@@ -7,8 +7,8 @@ Don't forget to [setup your laptop with the OpenStack powered cloud of your choi
 ![Cloud apps are the future...](https://pbs.twimg.com/media/CuJSGSrUEAAXoeK.jpg)
 
 ## Learning context for completing the lab
- - A international consortium of University professors are releasing a series of scientific discoveries which are highly sensitive and likley to be contested (akin to WikiLeaks data but for the Scientific sector).  You can either use [the app which the professors have created](http://developer.openstack.org/firstapp-shade/introduction.html) or select another app which can host static HTML Web pages (e.g. wordpress, plone, etc).
- - You need to upload an application to the cloud (via shade) which can host mirrors of the content in multiple locations.  NB for this excercise your applications do not need to be sync'd between different datacenters (aka state/less), as we'll cover app state in a future lab.  The professors just want to make sure the content is online and easy to access/read/copy.
+ - A international consortium of University professors are releasing a series of scientific discoveries which are highly sensitive and likley to be contested (akin to WikiLeaks data, but for the Scientific sector).  You can either use [the app which the professors have created](http://developer.openstack.org/firstapp-shade/introduction.html) or select another app which can host static HTML Web pages (e.g. SimpleHTTPserver, wordpress, plone, etc).
+ - You need to upload an application to the cloud (via shade) which can host mirrors of the content in multiple locations.  NB for this excercise your applications do not need to be sync'd between different datacenters (aka state/less), as we'll cover 'app state' in a future lab.  For this lab, the professors just want to make sure the content is online and easy to access/read/copy.
  - Get additional points for each datacentre around the world which hosts an applicaiton serving the professors Web pages.
 
 # Lab learning objectives _(by completing this lab you will know how to...)_
@@ -17,8 +17,8 @@ Don't forget to [setup your laptop with the OpenStack powered cloud of your choi
  - [x] ...upload an application to VM and place it on a public network for access via a Web URL.
 
 ## Win StackerPoints for completing this lab:
-  - Win StackerPoints by tweeting a public URL(IP) showing an application running on the cloud which is able to display webpages. Hint: python SimpleHTTPServer --> index.html
-  - Get one of the [Cloud App Pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) to "❤" your tweet.
+  - Win StackerPoints by tweeting a public URL(IP) showing an application running on the cloud which is able to display webpages. Hint: python SimpleHTTPServer --> index.html('hello world')
+  - Get one of the [Cloud App Pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) to "❤" your tweet showing your 2+ public app IPs showing some content.
   - Once an App Pro has +1'd your tweet, come and show your ❤'d tweet to the helpdesk in the Cloud App Lab Lounge in the Marketplace (Expo Hall) to claim your [StackerPoints](/StackerPoints).
 
 ## Ingredients you'll need for completing this lab:
