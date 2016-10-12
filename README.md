@@ -54,14 +54,14 @@ About this lab:
  - [x] _Community you'll meet_ = people who are helping engineers shift their skills to be able to: a.) authenticate via command line, b.) use of YAML as a simple structured document for storring login details, and c.) basic (beginner) control of a datacentre via command line API calls.
  - [x] _Points you'll score_ = +10 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
 
-## Cloud App Lab no.3 - [StackControl: how to upload and control a muti-factor application to OpenStack-powered datacenters arounds the planet](/StackControl.md)
+## Cloud App Lab no.3 - [StackControl: how to upload and manually control a simple application at multiple OpenStack-powered datacenters arounds the planet](/StackControl.md)
 
 About this lab:
- - [x] _What you'll learn_ = how to upload an application to a datacentre cloud using basic command line python code.
- - [x] _Community you'll meet_ = people who understand how to enable application developers to use basic cloud skills for: a.) controlling a datacentre via command line API calls, and b.) using a simple python library (shade).
+ - [x] _What you'll learn_ = how to upload an application at 2+ datacenters using simple command line python code (called 'Shade').
+ - [x] _Community you'll meet_ = people who understand how to enable application developers to use basic cloud skills for: a.) controlling a datacentre via command line API calls, and b.) those who actively use a simple python library (shade).
  - [x] _Points you'll score_ = +10 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
 
-## Cloud App Lab no.4 - [StackScale: installing an application with multiple workers at different datacenter locations around the world.](/StackScale.md)
+## Cloud App Lab no.4 - [StackScale: installing an application which is multi-factor (stateless) at different datacenter locations around the world.](/StackScale.md)
 
 Aboout this lab:
  - [x] _What you'll learn_ = install an application whose data (state) needs to be maintained seperate from the stateless jobs of the application workers. 
