@@ -19,14 +19,15 @@ Don't forget to [setup your laptop with the OpenStack powered cloud of your choi
  - [x] ...understand the concept of 'state' (stateless/statefull) applications and the implications for different design patterns for managing various _cloud app statless-ness_.
 
 ## Win StackerPoints for completing this lab:
-  - win
-  - win
-  - win
+  - Tweet a picture showing that your application is working in multiple datacenters, i.e this could be a picture of your network topology, it could be a video of your IDE stopping/starting workers, etc. 
+  - Get one of the [Cloud App Pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) to "❤" your tweet showing your app working as statelessly!
+  - Once an App Pro has +1'd your tweet, come and show your ❤'d tweet to the helpdesk in the Cloud App Lab Lounge in the Marketplace (Expo Hall) to claim your [StackerPoints](/StackerPoints).
 
 ## Ingredients you'll need for completing this lab:
-  - ingredient 1
-  - ingredient 2
-  - ingredient 3
+  - The [Fractals Application is avaialble here](http://developer.openstack.org/firstapp-shade/introduction.html), including instructions for a possible statelss architecture.
+  - You'll need to utilise the Shade SDK/API calls to manage your application accross different OpenStack-powered-datacenters.
+  - Make sure you are managing your account details for each cloud via our clouds.yaml file and os-cloud-config.py library.
+  - Bonus points: pay attention to where your fractal workers are putting the fractals once they are generated.
 
 ## App pros who can help you complete this lab:
 Stuck on this lab, need some help to solve?  [Ping one of our Cloud App Lab Pros on Twitter/IRC](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=false&delayms=2000). NB Open Source is about knowing *who* as much as it is about knowing *what*.
@@ -37,6 +38,7 @@ Recommended _cloud app pros_ who can help (via Twitter/IRC):
  - @SquidBoylan
  - @Serg
  - @Chris Aedo...
+ - @Marcella...
  
 # Solving the lab
 Having trouble?  Sit back and watch someone else solve this lab learning challenge ;-)
