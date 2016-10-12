@@ -4,7 +4,7 @@ Welcome to the OpenStack Cloud App Lounge!  Below you will find the third (3of6)
 
 Don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq)
 
-![Cloud apps are the future...](https://pbs.twimg.com/media/CuJSGSrUEAAXoeK.jpg)
+![Cloud apps are the future...](https://pbs.twimg.com/media/CuhvImeVYAAP71i.jpg:large)
 
 ## Learning context for completing the lab
  - A international consortium of University professors are releasing a series of scientific discoveries which are highly sensitive and likley to be contested (akin to WikiLeaks data, but for the Scientific sector).  You can either use [the app which the professors have created](http://developer.openstack.org/firstapp-shade/introduction.html) or select another app which can host static HTML Web pages (e.g. SimpleHTTPserver, wordpress, plone, etc).
