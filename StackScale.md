@@ -7,9 +7,9 @@ Don't forget to [setup your laptop with the OpenStack powered cloud of your choi
 ![State or stateless? The key question for every cloud applicaiton engineer to understand.](https://pbs.twimg.com/media/Cudphb2VMAMjaO3.jpg:large)
 
 # Lab learning objectives _(by completing this lab you will know how to...)_
- - [x] objective 1
- - [x] objective 2
- - [x] objective 3
+ - [x] ...re-factor your cloud application architecture to have multiple 'app workers' who can be dynamically scaled and located at any OpenStack-powered-datacentre worldwide.
+ - [x] ...meet community members who have built and maintained various stateless enterprise applications in production.
+ - [x] ...understand the concpet 'state' (stateless/statefull) applications and the implications for different design patterns for managing various cloud app statlessness.
 
 ## Learning context for completing the lab
  - list 1
