@@ -12,9 +12,9 @@ Before you being, don't forget to [setup your laptop with the OpenStack powered 
  - list 3
 
 # Lab learning objectives _(by completing this lab you will know how to...)_
- - [x] objective 1
- - [x] objective 2
- - [x] objective 3
+ - [x] objective 1 _{specific task they will be completing}_
+ - [x] objective 2 _{type of community people they will be meeting}_
+ - [x] objective 3 _{overall awareness they will achieve by doing this lab}_
 
 ## Win StackerPoints for completing this lab:
   - win
