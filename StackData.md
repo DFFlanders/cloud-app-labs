@@ -13,30 +13,32 @@ Before you being, don't forget to [setup your laptop with the OpenStack powered 
  - Accorindly, in this lab you are going to need to collect the data in a single accessible place
 
 # Lab learning objectives _(by completing this lab you will know how to...)_
- - [x] objective 1 _{specific task they will be completing}_
- - [x] objective 2 _{type of community people they will be meeting}_
- - [x] objective 3 _{overall awareness they will achieve by doing this lab}_
+ - [x] ...isolate your data in a single central hub which can feed data to other part of your application at other datacentres around the world.
+ - [x] ...get to know people who understand how to balance network load between the different parts of your application like System Adminstrators, Network Engineers and Developer Operations.  
+ - [x] ...start to build up your understanding for the different 'Cloud Native Application _Patterns_' (stateless/stateful) which every 'Application Engineer' should have in their toolbox. 
 
 ## Win StackerPoints for completing this lab:
-  - win
-  - win
-  - win
+  1. Tweet a picture showing that your application has a cinder volume bit which is collecting and maintaining the state of your data for your other app workers to use, i.e take picture of your network topology or a video of your IDE with your cinder (block storage) volume serving data to your app workers.
+  2. Get one of the [Cloud App Pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) to "❤" your tweet showing FOOBAR
+  3. Once an App Pro has +1'd your tweet, come and show your ❤'d tweet to the helpdesk in the Cloud App Lab Lounge in the Marketplace (Expo Hall) to claim your [StackerPoints](/StackerPoints).
 
 ## Ingredients you'll need for completing this lab:
-  - ingredient 1
-  - ingredient 2
-  - For bonus points you could explore other _cloud native application patterns_ such as the vitress database (from YouTube)
+  - Understand what volume (block storage) is and how to mint and connect to it via shade.
+  - You'll also need to understand some networking patterns and how different nodes (data nodes vs app worker nodes) talk to one another, be that over public communication channels or private communication channels.  You'll need help from your SysAdmin, NetEng and DevOpps, as this part of the stack is their 'bread and butter'.
+  - You'll need a load balancer to sit betwen your central hub of data and the workers requesting/sending data to the central hub.  There are lots of options for load balancers, but for ease of use we'd suggest you get a 
+  - For bonus points you could explore other _cloud native application patterns_ such as the [vitress database (from YouTube)](http://vitess.io/overview/)
+  - Or just use this handy [step-by-step instruction guide](http://developer.openstack.org/firstapp-shade/introduction.html) ;-)
 
 ## App pros who can help you complete this lab:
 Stuck on this lab, need some help to solve?  [Ping one of our Cloud App Lab Pros on Twitter/IRC](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=false&delayms=2000). NB Open Source is about knowing *who* as much as it is about knowing *what*.
 
 Recommended _cloud app pros_ who can help (via Twitter/IRC):
- - @
- - @
- - @
+ - [@MBonell](https://twitter.com/MBonell)
+ - @Bruno
+ - @mikeMetral...
  
 # Solving the lab
 Having trouble?  Sit back and watch someone else solve this lab learning challenge ;-)
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/b5R1pV2--fI/0.jpg)](http://www.youtube.com/watch?v=b5R1pV2--fI)
 
