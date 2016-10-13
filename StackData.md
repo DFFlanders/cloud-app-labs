@@ -2,7 +2,7 @@
 
 Welcome to the OpenStack Cloud App Lounge!  Below you will find the fifth (5of6) app lab challenges.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md) - the future of apps. 
 
-Before you being, don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq).
+Before you begin, don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq).
 
 ![Which cloud App architecture patterns will come to dominate the enterprise app?](https://pbs.twimg.com/media/CumnwCBUIAA_3RH.png:large)
 
