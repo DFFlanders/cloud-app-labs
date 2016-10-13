@@ -17,9 +17,9 @@ Before you being, don't forget to [setup your laptop with the OpenStack powered 
  - [x] objective 3 _{overall awareness they will achieve by doing this lab}_
 
 ## Win StackerPoints for completing this lab:
-  - Tweet a picture showing that your application is FOOBAR, i.e this could be a FOOBAR
-  - Get one of the [Cloud App Pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) to "❤" your tweet showing FOOBAR
-  - Once an App Pro has +1'd your tweet, come and show your ❤'d tweet to the helpdesk in the Cloud App Lab Lounge in the Marketplace (Expo Hall) to claim your [StackerPoints](/StackerPoints).
+  1. Tweet a picture showing that your application is FOOBAR, i.e this could be a FOOBAR
+  2. Get one of the [Cloud App Pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) to "❤" your tweet showing FOOBAR
+  3. Once an App Pro has +1'd your tweet, come and show your ❤'d tweet to the helpdesk in the Cloud App Lab Lounge in the Marketplace (Expo Hall) to claim your [StackerPoints](/StackerPoints).
 
 ## Ingredients you'll need for completing this lab:
   - ingredient 1
