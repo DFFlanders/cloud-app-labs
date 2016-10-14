@@ -1,5 +1,5 @@
 # StackEntrance Lab
-.#!= don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq)
+.#!= don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq.md)
 
 Welcome to the OpenStack Cloud App Lounge!  Below you will find the second (2of6) app lab challenges.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md). 
 
@@ -11,13 +11,13 @@ Welcome to the OpenStack Cloud App Lounge!  Below you will find the second (2of6
  - [x] ...connect to 2+ or more OpenStack powered clouds so you can build applications at the datacentre of your choosing.
  
  ## Context for completing the lab:
- - Because of EU Safe Harbour laws the cloud application you have just built requires that it be run from two different European countries.  Fortunatley, OpenStack has numerous OpenStack powered clouds which you can choose from to run your cloud app.  
+ - Because of EU Safe Harbour laws the cloud application you have just built requires that it be run from two different European countries.  Fortunately, OpenStack has numerous OpenStack powered clouds which you can choose from to run your cloud app.  
  - By building your cloud app on multiple clouds you are helping assure your app is not locked to a single cloud operating (infrastructure) system.  
  
  ## Win StackerPoints for completing this lab:
   - Show that you have connected to two different datacenters by tweeting two public URLs which can be pinged by one of our [Cloud App Lab Pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=false&delayms=2000).  Use the hashtag [#CloudApp](https://twitter.com/hashtag/cloudapp) to get the attention of a pro.
   - Ask for one of the Cloud App Lab Pros to verify that these two URLs are pingable by giving your tweet a "❤".
-  - Once you have solved your lab and had it +1'd then head to the _cloud app lab_ lounge to show your evidence to recieve your Stacker points.
+  - Once you have solved your lab and had it +1'd then head to the _cloud app lab_ lounge to show your evidence to receive your Stacker points.
   - Once you have collected enough lab points, you can [turn them into Stacker swag!](/StackerPoints)
 
  ## Ingredients you'll need to complete the lab:
