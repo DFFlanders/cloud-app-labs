@@ -31,17 +31,19 @@ What kinds of companies are want to hire 'AppEng' in the real world, right now? 
  
 # Examples of 'Cloud Application Engineering' job advertisements, CVs/Resumes and other related documentation:
 
-Below you'll find wording which I've adapted from _real_ job descriptions as per the above list of companies:
+Below you'll find wording which I've adapted from _real_ job descriptions as per the above list of companies.  Please copy and paste this wording as you see fit, it is licensed under a creative-commons-zero license.
 
-## Job role statements:
+## Job role statements for Application Engineering:
 
  - Our software engineers work with Cloud Service Providers (e.g. search engine, social network and e-commerce providers) to optimize software stacks for our company and its customers. AppEng contribute to the corporate mission by: a.) helping define what the future platform looks like for our staff and customers, b.) assist with competitive platform comparison and characterization to help define our applications efficiencies, c.) regular configure and execute workload performance characterization experiments with a team of developers, including: "Network Engineers, System Adminstrators, Developer Operations, Application Devleopers, Usability Experts, etc., and d.) AppEng will be measured by their ability to define and show engineering efficiencies which will directly benefit the users increased productivity.
  - Responsibility for 'productivity efficiencies' will include: software optimization, power optimization, performance and efficiency analysis, configuration of performance analysis infrastructure, customer-facing collaboration, training and support, usability+behavioural testing efficiencies and the identification of best practices to be used in the creation of collateral and case studies to define efficiency.
  - Other responsibilities include customer and internal communication (written and verbal), and working across multiple organizations to define and enable solutions in both customer and internal environments. Will be a sincere advocate for our technologies with customers; and vice versa, for customers' needs and viewpoints with all other company developers/engineers. 
  - The successful candidate will be highly self-motivated, able to take initiative to resolve problems individually and in teams, and able to see projects to completion with minimal supervision. 
+ 
+![Application Engineers work as an integration professional who understand the diversity of skillsets which they must work with to achieve application operational efficiency and demonstrable user efficiencies](http://www.venndiagram.net/wordpress/wp-content/uploads/A_Blank_Venn_Diagram_Can_Help_Teachers.jpg)
 
 ## Application Engineer Qualifications:
-AppEng should have a minimum of 2+ demonstrated skills (ideally certifications) from each of the below categories:
+AppEng should have a minimum of N+ demonstratable skills (and/or certifications) from each of the below categories:
 
 Network Engineering, Systems Adminstrations, Developer Operations:
  - [ ] Certified OpenStack Adminstrator
@@ -69,15 +71,15 @@ Application Development, Usability Expertise, Behaviourial / Unit Testing:
  - Familiarity with a Linux internals and software development environment, including strong debugging skills.
  - Enthusiasm for interacting with and publishing using Social Networking tools (blogs, wikis, online communities, etc.) 
 
- ## AppEng skills/capabilities:
+## Application Engineer Educational Foundations:
+AppEng should have N+ of the following foundations in their education, as demonstrated through their Higher Education and/or Demosntrable experience.  Evidence must be provided for each educational foundation checked:
 
- - * Master's or PhD in Computer Science or related engineering field.
-* 5 years experience or equivalent in parallel and distributed programming models with a strong understanding of scalability and concurrency concepts.
-* 5 years experience or equivalent in C/C++ software development and deployment on Linux.
-* 5 years experience or equivalent with one or more interpreted languages such as Java, PHP, Python, or PERL. 
-
-Bachelor's (undergraduate)degree, Master's (graduate)degree, or Ph.D. (post-graduate) degree in engineering discipline or equivalent experience (Computer Science or Computer Engineering or Electrical/Computer Engineering).
-Minimum 8 or more years of related work experience, including at least 2 years of networking or network application software development experience'
+ - Master's or PhD in Computer Science or related engineering field.
+ - 5 years experience or equivalent in parallel and distributed programming models with a strong understanding of scalability and concurrency concepts.
+ - 5 years experience or equivalent in C/C++ software development and deployment on Linux.
+ - 5 years experience or equivalent with one or more interpreted languages such as Java, PHP, Python, or PERL. 
+ - Bachelor's (undergraduate)degree, Master's (graduate)degree, or Ph.D. (post-graduate) degree in engineering discipline or equivalent experience (Computer Science or Computer Engineering or Electrical/Computer Engineering).
+ - Minimum 8 or more years of related work experience, including at least 2 years of networking or network application software development experience'
 
 Programming experience in one or more of following languages: Go lang, Python, C/C++
 Knowledge of Enterprise Networking – L2 / L3 protocols
@@ -93,34 +95,24 @@ Ability to communicate clearly – both written and verbal communication
 Ability to coach and mentor junior engineers
 Ability to develop and maintain partnerships with those outside one's own work group
 
-	* Intermediate experience with SQL, data analysis and manipulation skills
+Intermediate experience with SQL, data analysis and manipulation skills
+Good knowledge of C#, ASP.NET, HTML, Java
+Good understanding of Windows operating systems and active directory
+Ability to work under minimal supervision
+Self-motivated with the ability to analyze issues and prioritize proactively
+Must be able to support off-hours on-call
+Strong problem solving & troubleshooting skills including ability to perform root cause analysis for preventative analysis
+Comprehensive verbal and written communication skills
+Strong organizational skills and the ability to manage a diversified workload.
+Knowledgeable in Microsoft Visio/PowerPoint to effectively document and maintain system documentation.
+Demonstrated ability to communicate & work effectively with all levels of Operations, Engineering, Client Services, and senior management.
 
-* Good knowledge of C#, ASP.NET, HTML, Java
+## Application Engineer reponsibilities (job remit):
 
-* Good understanding of Windows operating systems and active directory
+Key Responsibilities Day-to-Day:
 
-* Ability to work under minimal supervision
-
-* Self-motivated with the ability to analyze issues and prioritize proactively
-
-* Must be able to support off-hours on-call
-
-* Strong problem solving & troubleshooting skills including ability to perform root cause analysis for preventative analysis
-
-* Comprehensive verbal and written communication skills
-
-* Strong organizational skills and the ability to manage a diversified workload.
-
-* Knowledgeable in Microsoft Visio/PowerPoint to effectively document and maintain system documentation.
-
-* Demonstrated ability to communicate & work effectively with all levels of Operations, Engineering, Client Services, and senior management.
-
-  ## AppEng reponsibilities:
-
- - Key Responsibilities:
-
-    Provide architecture and design leadership to a team of software engineers developing campus and branch networking applications for next-gen Network Operating System (NOS)
-    Review and understand customer solution and business requirements and translate them into product/solution technical requirements for the consumption of the software engineers
+  - Provide architecture and design leadership to a team of software engineers developing campus and branch networking applications for next-gen Network Operating System (NOS)
+  - Review and understand customer solution and business requirements and translate them into product/solution technical requirements for the consumption of the software engineers
     Develop architecture and detailed low-level designs suite based on detailed requirements.
     Design, develop, and test highly available, scalable, and distributed software systems
     Utilize the latest industry standard design & implementation tools and frameworks to develop and test world-class software
@@ -130,24 +122,19 @@ Ability to develop and maintain partnerships with those outside one's own work g
     Document and publish requirement, design and functional specifications for use by internal teams
     Support HPE program/project managers and account leadership during technical design sessions, demo’s, and other meetings with the customer as needed
     
-    	* Provide the highest quality of technical support in identifying and resolving problems for partners, clients and internal staff in line with Company s Service Level Policy
-
-* Identify the appropriate process for each problem resolution
-
-* Share experience and knowledge of problem resolution with other staff members (including international staff) and to assist in creating a knowledge Base for Company s online products
-
-* Take ownership for all outstanding customer queries from the time Technical Support are contacted until escalation, or the resolution is provided for the customer
-
-* Customer centric communication, enables informed decision making within the team
-
-* Develop and maintain a well-coordinated internal relationship with key decision makers and with the wider organization
-
-* Maintain SLAs and participate in the on-call rotation. 
+  - Provide the highest quality of technical support in identifying and resolving problems for partners, clients and internal staff in line with Company s Service Level Policy
+  - Identify the appropriate process for each problem resolution
+  - Share experience and knowledge of problem resolution with other staff members (including international staff) and to assist in creating a knowledge Base for Company s online products
+  - Take ownership for all outstanding customer queries from the time Technical Support are contacted until escalation, or the resolution is provided for the customer
+  - Customer centric communication, enables informed decision making within the team
+  - Develop and maintain a well-coordinated internal relationship with key decision makers and with the wider organization
+  - Maintain SLAs and participate in the on-call rotation. 
 
 
 # Appendices and Further Notes
+Please ignore, notes to self...
 
-This is a pending draft blog post by Flanders and are his views alone ;-)  Really, these are just a series of 'observances' which I've been tracking to see if there is merrit in this observed pattern? /dff
+Below is a pending draft blog post by Flanders and are his views alone ;-)  Really, these are just a series of 'observances' which I've been tracking to see if there is merrit in this observed pattern? /dff
 
 On a person note: The primary problem the "cloud sector" is currently facing is that is has no discernable collection of 'cloud applications' to emerge panopticon.  And yes, I'm alluding to something _like_ the 'Android Marketplace' or 'iPhone store' as a kind of 'plug and play' consumer facing repository. Indeed, most of these apps will be for coporate enterprises, however a degree of centralisation and/or interoperability need to emerge before we'll see the customers, employees and end-users of these coporations satisfied with the app toolsets which they can implement to run their projects and teams.  Above all else, it is the enterprise which will be the ones to pay for cost of application development (as the 'app stores' have proven to be little else other than an in-efficient tithe platforms for humble developers).
 
