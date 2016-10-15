@@ -1,16 +1,18 @@
 # What is a "Cloud Application Engineer" aka "AppEng?
 
-A _Cloud Application Engineer_ sits somewhere between an ApDev and DevOpps.  Specifically an AppEng specialises in the architectural engineering of applications for use accross multiple open cloud platforms. The raison d'etre of an "AppEng" is to assure that a company producing 'cloud apps' are not locked into any one cloud operating system (cost savings, yo!).  A Cloud Application Engineer will know the architectural cloud application patterns which enable a cloud app to grow its user base as it grows and expands via load, geography, size and shape.  Above all else, they are efficient (and a bit lazy ;)
+A _Cloud Application Engineer_ is a roll we've started to see emerge in the "cloud sector" (aka "using software which sits in a datacenter vs on your own computer").  An Application Engineer, differs from that of a 'Application Specifically an AppEng specialises in the architectural engineering of applications for use accross multiple open cloud platforms. The raison d'etre of an "AppEng" is to assure that a company producing 'cloud apps' are not locked into any one cloud operating system (cost savings, yo!).  A Cloud Application Engineer will know the architectural cloud application patterns which enable a cloud app to grow its user base as it grows and expands via load, geography, size and shape.  Above all else, they are efficient (and a bit lazy ;)
 
 ![being a lazy AppEng is a good thing for your users](https://imgs.xkcd.com/comics/automation.png)
 
 ## An anti-pattern job description:  
-Perhaps the best way to define a new job role is to define its anti-pattern in comparison to other similar job descriptions.  While 'Cloud Application Engineers' will share skills with all of the following engineers in the stack, they differ via the following key skillsets:
- - How is an AppEng unlike an NetEng...
- - How is an AppEng unlike a SysAdmin...
- - How is an AppEng unlike a DevOpps...
- - How is an AppEng unlike an AppDev...
- - How is an AppEng unlike a UXer...
+I find anti-patterns can be helpful in comparison to other jobs of similar type.  While 'Cloud Application Engineers' will share skills with all of the following "developers" in the stack, they differ via the following key skillsets:
+ - How is an AppEng unlike an NetEng ≠ An Enng Eng (while continually conversive with the NetEng for guidance) does not know the details of the network stack (IPV layers), other than in regards to 
+ - How is an AppEng unlike a SysAdmin ≠ An AppEng (while understanding the basics of server configuration and performance, and always eager to learn more from an experienced SysAdmin), cannot assure the uptime of servers ("number of nines") nor their lifecycle maitenance and fault tollerant mechanical performance over time.
+ - How is an AppEng unlike a DevOpps ≠ AppEng do not care about dozens or hundreds of applications, they care about a few applications (less than 5 cloud apps at any given time).
+ - How is an AppEng unlike an AppDev ≠ AppEng do not invent software, they are not involved in the business of "start-ups" where an idea is invented and then brought to life as a product and business.  
+ - How is an AppEng unlike a UXer ≠ AppEng do not have the usability testing methods or behaviour unit testing toolboxes which a UXer will employ in their day to day.  
+ 
+Above all, the primary feedback loop which an AppEng achieves is to get the advice of these other experts on their teams.
 
 DISCLAIMER: Please note, the above is not intended to pigeon-hole developers into any single role, rather it is expected that many devleopers will occupy these roles and skillsets at different times in their carreer (it's an AND not an OR).  Some developers might even be a kind of 'unicorn' capable of acting like a 'full stack developer' in several of these skill areas.  Warning: 'unicorn full stack developers' do not usually play nice with teams, and a team is what you need if you want to build a cloud app.
 
@@ -18,7 +20,9 @@ DISCLAIMER: Please note, the above is not intended to pigeon-hole developers int
 
 Below are some common criteria which companies might use as part of a job application to hire a 'Cloud Application Engineer':
 
-Engineering Team Skills:
+The primary aim of Applicaiton Engineer at our company/institution will be to scale up our most popular applications so that they are more efficient, thereby resulting in greater productivity of our most significant asset: the collective intelligence of the company both humans and machines.  Accordingly, the AppEng will continually have (and further seek out) the following skillsets as part of their job (which is one of continous learning):
+ - The 'Usability Expert' (UXer) will regularly provide feedbak on the features 
+ - 
  - awareness and emotional intelligence for the range of expert skills available for their use and consultation.
  - leadership 
  - consultative 
@@ -37,22 +41,21 @@ So who is starting to hire 'cloud application engineers' = "AppEng"
  - Hewlett Packard
  - IBM
 
-Examples of 'Cloud Application Engineering' job advertisements, CVs/Resumes and other related documentation:
- - https://intel.taleo.net/careersection/10000/jobdetail.ftl?job=801765
- - 
+# Examples of 'Cloud Application Engineering' job advertisements, CVs/Resumes and other related documentation:
 
-## be lazy copy these template job descriptions ;-)
+--> be lazy copy these template job descriptions ;-)
 
   ## Job descripotion statements:
 
- - Our software engineers work with Cloud Service Providers (e.g. search engine, social network and e-commerce providers) to optimize software stacks for FOOBAR. They contribute to the definition of future platforms targeted at this space, assist with competitive platform characterization and help define, configure and execute workload performance characterization experiments. They also have the opportunity to enable the use of highly parallel many-core processors in cloud and other environments and explore the performance and efficiency of microservers, FPGAs and accelerators.
- - Responsibilities include software optimization, power optimization, performance and efficiency analysis, configuration of performance analysis infrastructure, customer-facing collaboration, training and support, and the identification of best practices to be used in the creation of collateral and case studies. Other responsibilities include customer and internal communication (written and verbal), and working across multiple organizations to define and enable solutions in both customer and internal environments. Will be an advocate for Intel technologies with customers, and for customers' needs and viewpoints with Intel product developers. The successful candidate will be highly self-motivated, able to take initiative to resolve problems individually and in teams, and able to see projects to completion with minimal supervision. 
-  - We are looking for an experienced Networking Applications Senior Software Engineer/Technical Lead to work on design and development of various control plane applications for mobile-first networking operating system. As a senior/lead software developer, you will be working on new control plane software services such as device application programming interfaces (e.g. REST), intelligent policy driven switch self-monitoring and troubleshooting, etc. If you have knack for networking and networking applications software, can lead architecture/design for complex software features as well as write excellent quality code, this might be a perfect opportunity for you.
+ - Our software engineers work with Cloud Service Providers (e.g. search engine, social network and e-commerce providers) to optimize software stacks for our company and its customers. AppEng contribute to the corporate mission by: a.) helping define what the future platform looks like for our staff and customers, b.) assist with competitive platform comparison and characterization to help define our applications efficiencies, c.) regular configure and execute workload performance characterization experiments with a team of developers, including: "Network Engineers, System Adminstrators, Developer Operations, Application Devleopers, Usability Experts, etc., and d.) AppEng will be measured by their ability to define and show engineering efficiencies which will directly benefit the users increased productivity.
+ - Responsibility for 'productivity efficiencies' will include: software optimization, power optimization, performance and efficiency analysis, configuration of performance analysis infrastructure, customer-facing collaboration, training and support, usability+behavioural testing efficiencies and the identification of best practices to be used in the creation of collateral and case studies to define efficiency.
+ - Other responsibilities include customer and internal communication (written and verbal), and working across multiple organizations to define and enable solutions in both customer and internal environments. Will be a sincere advocate for our technologies with customers; and vice versa, for customers' needs and viewpoints with all other company developers/engineers. 
+ - The successful candidate will be highly self-motivated, able to take initiative to resolve problems individually and in teams, and able to see projects to completion with minimal supervision. 
 
-  ## AppEng qualificaitons:
+  ## AppEng qualifications:
 
- - * Demonstrated familiarity with common cloud software architectures, internet service stacks, and virtual machine environments such as Xen or KVM.
-* Good understanding of server architecture and platforms features (compute, storage, and network)
+ - Demonstrated familiarity with common cloud software architectures, internet service stacks, and virtual machine environments such as Xen or KVM.
+ - Good understanding of server architecture and platforms features (compute, storage, and network)
 * Familiarity with server BIOS and Firmware
 * Experience with network and topologies, managed runtime services
 * Familiarity with databases (both relational and NoSQL), data analytics tools, and machine learning implementations.
