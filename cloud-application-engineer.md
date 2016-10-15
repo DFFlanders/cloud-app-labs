@@ -1,12 +1,23 @@
-This is a pending draft blog post by Flanders and are his views alone ;-)  Really, these are just a series of 'observances' which I've been tracking to see if their is merrit in this observed pattern? /dff
+This is a pending draft blog post by Flanders and are his views alone ;-)  Really, these are just a series of 'observances' which I've been tracking to see if there is merrit in this observed pattern? /dff
 
-On a person note: The primary problem the "cloud sector is currently facing is that is has no discernable collection of 'cloud applications' to have yet emerge.  Yes, something like the Android Marketplace or iPhone store is the kind of 'plug and play' cloud apps which we are waiting to emerge. Indeed, most of these apps will be for coporate enterprises, however a degree of centralisation and/or interoperability need to emerge before we'll see the customers, employees and end-users of these coporations satisfied with the app toolsets which they can implement to run their projects and teams.  Above all else, it is the enterprise which will be the ones to pay for cost of application development (as the 'app stores' have proven to be little else other than an in-efficient tithe platforms for humbled developers.
+On a person note: The primary problem the "cloud sector" is currently facing is that is has no discernable collection of 'cloud applications' to emerge panopticon.  And yes, I'm alluding to something _like_ the 'Android Marketplace' or 'iPhone store' as a kind of 'plug and play' consumer facing repository. Indeed, most of these apps will be for coporate enterprises, however a degree of centralisation and/or interoperability need to emerge before we'll see the customers, employees and end-users of these coporations satisfied with the app toolsets which they can implement to run their projects and teams.  Above all else, it is the enterprise which will be the ones to pay for cost of application development (as the 'app stores' have proven to be little else other than an in-efficient tithe platforms for humble developers).
 
 # What is a "Cloud Application Engineer" aka "AppEng?
 
-A _Cloud Application Engineer_ is a roll we've started to see emerge in the 'cloud sector' (aka apps in datacenters you access via 'online applications', i.e. via your browser, through apps on your phone, via SMS and/or any other 'Internet connected device' which requires access to 'timely data' and/or 'big data').  
+A _Cloud Application Engineer_ is a roll we've started to see emerge in the 'cloud sector' (aka apps in datacenters you access via 'online applications', i.e. via your browser, through apps on your phone, via SMS and/or any other 'Internet connected device' which requires access to 'timely data' and/or 'big data').  Their 'high level' obligations to their employe
 
-As per below, an Application Engineer, differs from that of a 'Application Developer'.  Specifically an AppEng specialises in the architectural engineering of applications for use accross multiple open cloud platforms for the purpose of efficiency and productivty gains. The raison d'etre of an "AppEng" is to assure that a company producing 'cloud apps' are optimising their human and machine workers for cost effectiveness.  A 'Cloud Application Engineer' will know the architectural cloud application patterns which enable a 'cloud app' to grow its 'user base'.  Accordingly, an AppEng will be brought into a team (post inception and customer strategies have been established), and will look to grow the producitvity of the 'cloud app' as it expands via load, geography, size and shape.  Above all else, AppEng are efficient (and a bit lazy ;)
+AppEng Aim:  _Demonstrably advance how a company producing 'cloud apps' are optimising their human and machine workers for shared cost effectiveness via the engineering measures of producitvity and efficieny gains_.
+
+AppEng Objectives:
+
+ - [x] specialise in the architectural engineering of applications for use accross multiple cloud platforms, for the purpose of cost effective effciency.
+ - [x] know the architectural cloud application patterns which enable a 'cloud apps' to grow its 'user base' for the purpose of consumer integration efficiency.
+ - [x] enable the..... for the purpose of customer ease, ergo productivty.
+ - [x] bla bla...... for.....  networking engineering, 
+ - [x] ......grow the producitvity of the 'cloud app' as it expands via load, geography, size and shape.
+
+Scenario: an AppEng is brought into development team post inception of the customer strategy having been established.
+Above all else, AppEng are efficient (and a bit lazy ;)
 
 ![being a lazy AppEng is a good thing for your users](https://imgs.xkcd.com/comics/automation.png)
 
