@@ -1,6 +1,12 @@
+This is a pending draft blog post by Flanders and are his views alone ;-)  Really, these are just a series of 'observances' which I've been tracking to see if their is merrit in this observed pattern? /dff
+
+On a person note: The primary problem the "cloud sector is currently facing is that is has no discernable collection of 'cloud applications' to have yet emerge.  Yes, something like the Android Marketplace or iPhone store is the kind of 'plug and play' cloud apps which we are waiting to emerge. Indeed, most of these apps will be for coporate enterprises, however a degree of centralisation and/or interoperability need to emerge before we'll see the customers, employees and end-users of these coporations satisfied with the app toolsets which they can implement to run their projects and teams.  Above all else, it is the enterprise which will be the ones to pay for cost of application development (as the 'app stores' have proven to be little else other than an in-efficient tithe platforms for humbled developers.
+
 # What is a "Cloud Application Engineer" aka "AppEng?
 
-A _Cloud Application Engineer_ is a roll we've started to see emerge in the "cloud sector" (aka "using software which sits in a datacenter vs on your own computer").  An Application Engineer, differs from that of a 'Application Specifically an AppEng specialises in the architectural engineering of applications for use accross multiple open cloud platforms. The raison d'etre of an "AppEng" is to assure that a company producing 'cloud apps' are not locked into any one cloud operating system (cost savings, yo!).  A Cloud Application Engineer will know the architectural cloud application patterns which enable a cloud app to grow its user base as it grows and expands via load, geography, size and shape.  Above all else, they are efficient (and a bit lazy ;)
+A _Cloud Application Engineer_ is a roll we've started to see emerge in the 'cloud sector' (aka apps in datacenters you access via 'online applications', i.e. via your browser, through apps on your phone, via SMS and/or any other 'Internet connected device' which requires access to 'timely data' and/or 'big data').  
+
+As per below, an Application Engineer, differs from that of a 'Application Developer'.  Specifically an AppEng specialises in the architectural engineering of applications for use accross multiple open cloud platforms for the purpose of efficiency and productivty gains. The raison d'etre of an "AppEng" is to assure that a company producing 'cloud apps' are optimising their human and machine workers for cost effectiveness.  A 'Cloud Application Engineer' will know the architectural cloud application patterns which enable a 'cloud app' to grow its 'user base'.  Accordingly, an AppEng will be brought into a team (post inception and customer strategies have been established), and will look to grow the producitvity of the 'cloud app' as it expands via load, geography, size and shape.  Above all else, AppEng are efficient (and a bit lazy ;)
 
 ![being a lazy AppEng is a good thing for your users](https://imgs.xkcd.com/comics/automation.png)
 
@@ -15,6 +21,8 @@ I find anti-patterns can be helpful in comparison to other jobs of similar type.
 Above all, the primary feedback loop which an AppEng achieves is to get the advice of these other experts on their teams.
 
 DISCLAIMER: Please note, the above is not intended to pigeon-hole developers into any single role, rather it is expected that many devleopers will occupy these roles and skillsets at different times in their carreer (it's an AND not an OR).  Some developers might even be a kind of 'unicorn' capable of acting like a 'full stack developer' in several of these skill areas.  Warning: 'unicorn full stack developers' do not usually play nice with teams, and a team is what you need if you want to build a cloud app.
+
+But what **does** an applicaiton engineer do?
 
 # Job Description: Cloud Application Engineer
 
@@ -32,28 +40,39 @@ Application Developer Technical Skills
  
 Usability Skills:
 
-## Example Job Descriptions of AppEng in the real world
+## What kinds of companies are starting to hire 'AppEng' in the real world, right now?
 
-So who is starting to hire 'cloud application engineers' = "AppEng"
- - Intel
- - YouTube
- - Cisco
- - Hewlett Packard
- - IBM
+Job Applications with the title of "Application Engineer' have appeared from:
+
+ 1. Intel (Q1 & Q2 2016)
+ 2. YouTube (Q1 2016)
+ 3. Cisco (Q2 2016)
+ 4. Hewlett Packard (Q3 2016)
+ 5. IBM (Q3 2016)
 
 # Examples of 'Cloud Application Engineering' job advertisements, CVs/Resumes and other related documentation:
 
---> be lazy copy these template job descriptions ;-)
+Below you'll find adapted wording which I've seen in _real_ job descriptions as per the above list of companies:
 
-  ## Job descripotion statements:
+## Job descripotion statements:
 
  - Our software engineers work with Cloud Service Providers (e.g. search engine, social network and e-commerce providers) to optimize software stacks for our company and its customers. AppEng contribute to the corporate mission by: a.) helping define what the future platform looks like for our staff and customers, b.) assist with competitive platform comparison and characterization to help define our applications efficiencies, c.) regular configure and execute workload performance characterization experiments with a team of developers, including: "Network Engineers, System Adminstrators, Developer Operations, Application Devleopers, Usability Experts, etc., and d.) AppEng will be measured by their ability to define and show engineering efficiencies which will directly benefit the users increased productivity.
  - Responsibility for 'productivity efficiencies' will include: software optimization, power optimization, performance and efficiency analysis, configuration of performance analysis infrastructure, customer-facing collaboration, training and support, usability+behavioural testing efficiencies and the identification of best practices to be used in the creation of collateral and case studies to define efficiency.
  - Other responsibilities include customer and internal communication (written and verbal), and working across multiple organizations to define and enable solutions in both customer and internal environments. Will be a sincere advocate for our technologies with customers; and vice versa, for customers' needs and viewpoints with all other company developers/engineers. 
  - The successful candidate will be highly self-motivated, able to take initiative to resolve problems individually and in teams, and able to see projects to completion with minimal supervision. 
 
-  ## AppEng qualifications:
+## AppEng qualifications:
+AppEng should have a minimum of 6+ demonstrated qualities from the list below (and be interested in learning about 10+ of the following):
 
+ - [ ] Certified OpenStack Adminstrator
+ - [ ] Demonstrable skills and experience in 2+ Cloud Operating Systems
+ - [ ] RedHat Server Certification
+ - [ ] Cisco Networking Certification
+ - [ ] Service Defined Networking and/or Network 
+ - [ ] Certification (and or demonstrable skills) in hypervisors, i.e. Xen, KVM, etc.
+ - [ ] Certiciation (and or demonstrable skills) in Vitual Machines
+ - [ ] 
+ 
  - Demonstrated familiarity with common cloud software architectures, internet service stacks, and virtual machine environments such as Xen or KVM.
  - Good understanding of server architecture and platforms features (compute, storage, and network)
 * Familiarity with server BIOS and Firmware
