@@ -1,5 +1,7 @@
 # What is a "Cloud Application Engineer" aka "AppEng?
 
+``The primary aim of Applicaiton Engineer at our company/institution will be to scale up our most popular applications so that they are more efficient, thereby resulting in greater productivity of our most significant asset: the collective intelligence of the company both humans and machines.  Accordingly, the AppEng will continually have (and further seek out) the following skillsets as part of their job (which is one of continous learning):``
+
 A _Cloud Application Engineer_ is a roll we've started to see emerge in the 'cloud sector' (aka apps in datacenters you access via 'online applications', i.e. via your browser, through apps on your phone, via SMS and/or any other 'Internet connected device' which requires access to 'timely data' and/or 'big data').  Their 'high level' obligations to their employe
 
 AppEng Aim:  _Demonstrably advance how a company producing 'cloud apps' are optimising their human and machine workers for shared cost effectiveness via the engineering measures of producitvity and efficieny gains_.
@@ -19,33 +21,14 @@ Above all else, AppEng are efficient (and a bit lazy ;)
 
 # Job Description Examples:
 
-What kinds of companies are want to hire 'AppEng' in the real world, right now?
-
-Job Applications with the title of "Application Engineer' have appeared from:
+What kinds of companies are want to hire 'AppEng' in the real world, right now? Job Applications with the title of "Application Engineer' have appeared from:
 
  1. Intel (Q1 & Q2 2016)
  2. YouTube (Q1 2016)
  3. Cisco (Q2 2016)
  4. Hewlett Packard (Q3 2016)
  5. IBM (Q3 2016)
-
-## Job Overview: 
-
-Below are some common criteria which companies might use as part of a job application to hire a 'Cloud Application Engineer':
-
-The primary aim of Applicaiton Engineer at our company/institution will be to scale up our most popular applications so that they are more efficient, thereby resulting in greater productivity of our most significant asset: the collective intelligence of the company both humans and machines.  Accordingly, the AppEng will continually have (and further seek out) the following skillsets as part of their job (which is one of continous learning):
-
- - The 'Usability Expert' (UXer) will regularly provide feedbak on the features 
- - 
- - awareness and emotional intelligence for the range of expert skills available for their use and consultation.
- - leadership 
- - consultative 
-
-Application Developer Technical Skills
- - 
  
-Usability Skills:
-
 # Examples of 'Cloud Application Engineering' job advertisements, CVs/Resumes and other related documentation:
 
 Below you'll find wording which I've adapted from _real_ job descriptions as per the above list of companies:
@@ -58,8 +41,9 @@ Below you'll find wording which I've adapted from _real_ job descriptions as per
  - The successful candidate will be highly self-motivated, able to take initiative to resolve problems individually and in teams, and able to see projects to completion with minimal supervision. 
 
 ## Application Engineer Qualifications:
-AppEng should have a minimum of 6+ demonstrated qualities from the list below (and be interested in learning about 10+ of the following):
+AppEng should have a minimum of 2+ demonstrated skills (ideally certifications) from each of the below categories:
 
+Network Engineering, Systems Adminstrations, Developer Operations:
  - [ ] Certified OpenStack Adminstrator
  - [ ] Demonstrable skills and experience in 2+ Cloud Operating Systems
  - [ ] RedHat Server Certification
@@ -67,21 +51,23 @@ AppEng should have a minimum of 6+ demonstrated qualities from the list below (a
  - [ ] Service Defined Networking and/or Network 
  - [ ] Certification (and or demonstrable skills) in hypervisors, i.e. Xen, KVM, etc.
  - [ ] Certiciation (and or demonstrable skills) in Vitual Machines
- - [ ] 
+ - [ ] Continous Integration...
  
-
  - Good understanding of server architecture and platforms features (compute, storage, and network)
-* Familiarity with server BIOS and Firmware
-* Experience with network and topologies, managed runtime services
-* Familiarity with databases (both relational and NoSQL), data analytics tools, and machine learning implementations.
-* Demonstrated competency and enthusiasm for application performance, characterization, and optimization, including the ability to design and execute performance characterization experiments.
-* Familiarity with a Linux internals and software development environment, including strong debugging skills.
-* Familiarity with system power management and power measurement techniques.
-* Enthusiasm for interacting with and publishing using Social Networking tools (blogs, wikis, online communities, etc.) 
+ - Familiarity with server BIOS and Firmware
+ - Experience with network and topologies, managed runtime services
+ - Familiarity with system power management and power measurement techniques.
+ 
+Applicaiton Engineering (combining the skills of above and below to achieve operational efficiencies and demosntrable user productivity):
 
-Bachelor's (undergraduate)degree, Master's (graduate)degree, or Ph.D. (post-graduate) degree in engineering discipline or equivalent experience (Computer Science or Computer Engineering or Electrical/Computer Engineering).
-Minimum 8 or more years of related work experience, including at least 2 years of networking or network application software development experience'
+ - [ ] Data analysis
+ - Demonstrated competency and enthusiasm for application performance, characterization, and optimization, including the ability to design and execute performance characterization experiments.
+ 
+Application Development, Usability Expertise, Behaviourial / Unit Testing:
 
+ - Familiarity with databases (both relational and NoSQL), data analytics tools, and machine learning implementations.
+ - Familiarity with a Linux internals and software development environment, including strong debugging skills.
+ - Enthusiasm for interacting with and publishing using Social Networking tools (blogs, wikis, online communities, etc.) 
 
  ## AppEng skills/capabilities:
 
@@ -89,6 +75,9 @@ Minimum 8 or more years of related work experience, including at least 2 years o
 * 5 years experience or equivalent in parallel and distributed programming models with a strong understanding of scalability and concurrency concepts.
 * 5 years experience or equivalent in C/C++ software development and deployment on Linux.
 * 5 years experience or equivalent with one or more interpreted languages such as Java, PHP, Python, or PERL. 
+
+Bachelor's (undergraduate)degree, Master's (graduate)degree, or Ph.D. (post-graduate) degree in engineering discipline or equivalent experience (Computer Science or Computer Engineering or Electrical/Computer Engineering).
+Minimum 8 or more years of related work experience, including at least 2 years of networking or network application software development experience'
 
 Programming experience in one or more of following languages: Go lang, Python, C/C++
 Knowledge of Enterprise Networking – L2 / L3 protocols
