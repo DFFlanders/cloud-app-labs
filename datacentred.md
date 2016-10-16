@@ -2,6 +2,8 @@
 
 You should've been given a username, password and project name. You will need these to access your test account on DataCentred.
 
+@Sean --> To get an account follow @datacentred twitter and send a direct message requesting login details...
+
 ## Dashboard Access
 
 You can access our user dashboard via https://my.datacentred.io
