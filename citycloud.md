@@ -13,4 +13,4 @@ How to use and connect to CityCloud
       user_domain_id: 
 
 
-[![Getting started using OpenStack Shade with citycloud](https://www.youtube.com/watch?v=aqMB8PoNmAw)
+[![Getting started using OpenStack Shade with citycloud](https://www.youtube.com/watch?v=7s7LKdih2vA)
