@@ -1,12 +1,18 @@
 # What is a "Cloud Application Engineer" aka "AppEng?
 
-A _Cloud Application Engineer_ is a roll we've started to see emerge in the 'cloud sector' (aka apps in datacenters you access via 'online applications', i.e. via your browser, through apps on your phone, via SMS and/or any other 'Internet connected device' which requires access to 'timely data' and/or 'big data').  Their 'high level' obligations to their employers is a simple measurable set of formulas which demonstrate operational efficiency.
+Defining _'Cloud Application Engineering'_ 
+
+First let's define 'cloud apps'. 'Cloud applications' are apps which operate in a datacente; as opposed to, apps on your mobile phone or laptop.  'Cloud apps' are application which a general cosumer would access via 'online applications', i.e. via your browser, through apps on your phone/tablet, via SMS and/or any other 'Internet connected device' which requires access to 'timely data' and/or 'big data'.  Example of well known cloud apps would include: Uber, Pokeman, Twitter/Facebook, CandyCrush... Also worth noting are the portals which host these applications, so called "Cloud Applications Platforms" (AKA PaaS), which are emerging in the form of Google Drive Apps (aka Google Suite), Salesforce Apps, Apple iCloud, Microsoft365, etc.
+
+What then is a 'Cloud Application Engineer'?  Let's begin with their 'high level' obligations (remit) to their employers, which is a simple measurable set of formulas to demonstrate efficiency (_as defined by engineering_).
 
 From Wikipedia: _"efficiency is measured as the ratio of useful output to total input, which can be expressed with the mathematical formula r=P/C, where P is the amount of useful output ("product") produced per the amount C ("cost") of resources consumed._
 
-AppEng Aim:  _Demonstrably advance how a company producing 'cloud apps' are optimising their human and machine workers for shared cost effectiveness via the engineering measures of producitvity and efficieny gains_.
+## What are the aims and objectives which a 'Cloud Application Engineer' should achieve for their employeer?
 
-AppEng Objectives:
+Aim:  _Demonstrably advance how a company producing 'cloud apps' are optimising their human and machine workers for shared cost effectiveness via the engineering measures of producitvity and efficieny gains_.
+
+Objectives:
 
  - [x] specialise in the architectural engineering of applications for use accross multiple cloud platforms, for the purpose of cost effective effciency.
  - [x] know the architectural cloud application patterns which enable a 'cloud apps' to grow its 'user base' for the purpose of consumer integration efficiency.
@@ -14,15 +20,16 @@ AppEng Objectives:
  - [x] bla bla...... for.....  networking engineering, 
  - [x] ......grow the producitvity of the 'cloud app' as it expands via load, geography, size and shape.
 
-Scenario: an AppEng is brought into development team post inception of the customer strategy having been established.
-Above all else, AppEng are efficient (and a bit lazy ;)
+
+``Timelyness, An AppEng is brought into the development team, post inception of the customer strategy having been established.
+ - Above all else, AppEng are efficient (and a bit lazy ;)
 
 ![being a lazy AppEng is a good thing for your users](https://imgs.xkcd.com/comics/automation.png)
---> third gaph of what an application engineer should achieve...
+--> third gaph of what an application engineer should achieve...``
 
 # Job Description Examples:
 
-What kinds of companies are want to hire 'AppEng' in the real world, right now? Job Applications with the title of "Application Engineer' have appeared from:
+Which kinds of companies want to hire an 'AppEng' in the real world, right now? Job Applications with the title of "Cloud Application Engineer' have appeared from:
 
  1. Intel (Q1 & Q2 2016)
  2. YouTube (Q1 2016)
@@ -155,4 +162,9 @@ Above all, the primary feedback loop which an AppEng achieves is to get the advi
 
 DISCLAIMER: Please note, the above is not intended to pigeon-hole developers into any single role, rather it is expected that many devleopers will occupy these roles and skillsets at different times in their carreer (it's an AND not an OR).  Some developers might even be a kind of 'unicorn' capable of acting like a 'full stack developer' in several of these skill areas.  Warning: 'unicorn full stack developers' do not usually play nice with teams, and a team is what you need if you want to build a cloud app.
 
-But what **does** an applicaiton engineer do?
+### some assumptions (risks)
+  - The industry goal of AI while 
+  - Remember that for every  1% decrease in the global human workforce (an N% increase in the robot workforce) there are forty-thousand deaths.  Waxing lyrical on this data, if self-driving cars come into existence and start to replace the transportation industry (taxis, deliveries, shipments, etc) this could potentially have a devastating impact on our industry.
+  
+ 
+ 
