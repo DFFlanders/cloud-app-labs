@@ -17,7 +17,7 @@ The overall aim of the cloud apps lab lounge is to connect you with likeminded c
 Depending on your skill level, each lab will take anywhere from five to forty-five minutes (faster for those who know how to _ask for help_).
 Labs are designed to start easy and get more difficult, so as to keep you _playfully challenged_.
 
-You can get help on each lab by simply hanging out in the "Lab Lounge" and asking for help at the info-desk; or you can ask one of our [app pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) who will be on-hand to help.  Also, get help by tweeting your question by using the [#cloudapps](https://twitter.com/hashtag/cloudapps) hashtag via twitter/irc (we'll continually monitor #OpenStack channels).
+You can get help on each lab by simply hanging out in the "Lab Lounge" and asking for help at the info-desk; or you can ask one of our [app pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) who will be on-hand to help.  Also, get help by tweeting your question by using the [#cloudapp](https://twitter.com/hashtag/cloudapp) hashtag via twitter/irc (we'll continually monitor #OpenStack channels).
 
 **Best of all, win points by completing labs which will earn you Stacker swag!**
 ![Win Stacker Swag by completing these Cloud App Labs](https://pbs.twimg.com/media/CuNYDXsWIAARjHb.jpg:large)
