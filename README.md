@@ -2,17 +2,17 @@
 
 ![Cloud App Labs at the OpenStack Summit in Barcelona Spain](https://pbs.twimg.com/media/CuN700EWEAAo4xK.jpg:large)
 
-Welcome to the OpenStack Summit.  The following 'Cloud App Labs' are part of the growing 'OpenStack Academy' and will be located in the Summit Marketplace (aka Expo Hall). This repository contains a series of 'Cloud App Labs' to help you get self-started with becoming a _cloud application engineer_ - the future of apps development.
+Welcome to the OpenStack Summit.  The following 'Cloud App Labs' are part the 'OpenStack Academy' and will be located in the Summit Marketplace (aka Expo Hall). This repository contains a series of 'Cloud App Labs' to help you get self-started with becoming a _cloud application engineer_ - the future of apps development.
 
 TL;DR = Learn the skills to become a 'Cloud Application Engineer' - ask Q's anytime by sending a tweet which includes [#CloudApp](https://twitter.com/hashtag/cloudapp) + your question which one of our [Cloud App Pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) will answer.
 
 Overall Learning Objectives (_by completing these labs you will know how to..._)
- - [x] ...work as part of the growing cloud app community, to understand the significance of working as part of a multi-factor cloud application team.(NetEng, SysAdmin, DevOpps, AppDev, UX, etc).
- - [x] ...be inspired to build cloud apps which are cross-cloud (not locked into single cloud operating infrastructure systems).
- - [x] ...make cloud apps which are simple at the start: constrain their state so they can be further configured as they evolve (to become stateless aka cloud native).
+ - [x] ...work as part of the growing cloud app community, to understand the significance of working as part of a multi-factor cloud application team (NetEng, SysAdmin, DevOpps, AppDev, UX, etc).
+ - [x] ...be inspired to build cloud apps which are cross-cloud (hybrid apps which can work accross multiple dataceters worldwide).
+ - [x] ...make cloud apps which are simple at the start: constrain their state so they can be further configured as they evolve (to become stateless micro-services aka 'cloud native').
  - [x] ...know where to go to for further learning resources and community ideas for building the cloud apps of the future.
 
-The overall aim of the cloud apps lab lounge is to connect you with likeminded cloud application community members who are evolving the thinking on how to engineer cloud apps which will work interoperably accross various open cloud infrastructures. AKA say "'no' to cloud app lock-in".
+The _overall aim_ of the cloud apps lab lounge is to connect you with likeminded cloud application community members who are evolving the thinking on how to engineer cloud apps which will work interoperably accross open cloud infrastructures.
 
 Depending on your skill level, each lab will take anywhere from five to forty-five minutes (faster for those who know how to _ask for help_).
 Labs are designed to start easy and get more difficult, so as to keep you _playfully challenged_.
@@ -30,12 +30,14 @@ The process for completing labs and earining Stacker points is simple:
  5. Repeat by completing more labs (see step 1)
 
 To get you started you'll need to have the following pre-requisites:
+
  * a laptop with wifi access whose SSH ports are open.
  * very basic Python scripting skills
- * an account on one of the many OpenStack public clouds: if you don't have one, we have one for you.
- * an SSH key and basic understanding for how to apt-get install applications on the cloud (only very basic).
+ * an account on one of the many OpenStack public clouds: if you don't have one, we have one for you:
+   * [Setup your laptop to work with an OpenStack powered datacenter](/prereq.md)
+ * an SSH key and basic understanding for how to apt-get/curl applications onto the cloud (only very basic).
  * an understanding for the basics for making URL based (ReSTful) code calls to a datacenter's API endpoints.
- * #!--> [Setup your laptop to work with an OpenStack powered datacenter](/prereq.md)
+ * willingness to ask questions, ask for help and get involved in the community conversation!
 
 # List of Cloud Application Laboratories
 Let's get started, pick a lab:
@@ -50,7 +52,7 @@ About this lab:
 ## Cloud App Lab no.2 - [StackEntrance: having your own personal entrance to all OpenStack public clouds worldwide](/StackEntrance.md)
 
 About this lab:
- - [x] _What you'll learn_ = how to configure your laptop to control a datacenter, so that you don't have to use a Web based dashboard; instead, use simple python scripts to get access to datacenters (powered by OpenStack worldwide). Yes that's right, one simple file is all you need to access hundreds of clouds (i.e. clouds.yaml via os-cloud-config.py)
+ - [x] _What you'll learn_ = how to configure your laptop to control a datacenter, so that you don't have to use a Web-based dashboard; instead, use simple python scripts to get access to datacenters (powered by OpenStack worldwide). Yes that's right, one simple file is all you need to access hundreds of clouds (i.e. clouds.yaml via os-cloud-config.py)
  - [x] _Community you'll meet_ = people who are helping engineers shift their skills to be able to: a.) authenticate via command line, b.) use of YAML as a simple structured document for storring login details, and c.) basic (beginner) control of a datacentre via command line API calls.
  - [x] _Points you'll score_ = +10 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
 
