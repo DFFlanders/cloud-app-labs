@@ -7,9 +7,9 @@ Don't forget to [setup your laptop with the OpenStack powered cloud of your choi
 ![Cloud apps are the future...](https://pbs.twimg.com/media/CuhvImeVYAAP71i.jpg:large)
 
 ## Learning context for completing the lab
- - A international consortium of University professors are releasing a series of scientific discoveries which are highly sensitive and likley to be contested (akin to WikiLeaks data, but for the Scientific sector).  You can either use [the app which the professors have created](http://developer.openstack.org/firstapp-shade/introduction.html) or select another app which can host static HTML Web pages (e.g. SimpleHTTPserver, wordpress, plone, etc).
- - You need to upload an application to the cloud (via shade) which can host mirrors of the content in multiple locations.  NB for this excercise your applications do not need to be sync'd between different datacenters (aka state/less), as we'll cover 'app state' in a future lab.  For this lab, the professors just want to make sure the content is online and easy to access/read/copy.
- - Get additional points for each datacentre around the world which hosts an applicaiton serving the professors Web pages.
+ 1. A international consortium of University professors are releasing a series of scientific discoveries which are highly sensitive and likley to be contested (akin to WikiLeaks data, but for the Scientific sector).  You can either use [the app which the professors have created](http://developer.openstack.org/firstapp-shade/introduction.html) or select another app which can host static HTML Web pages (e.g. SimpleHTTPserver, wordpress, plone, etc).
+ 2. You need to upload an application to the cloud (via shade) which can host mirrors of the content in multiple locations.  NB for this excercise your applications do not need to be sync'd between different datacenters (aka state/less), as we'll cover 'app state' in a future lab.  For this lab, the professors just want to make sure the content is online and easy to access/read/copy.
+ 3. Get additional points for each datacentre around the world which hosts an application serving the professors Web pages.
 
 # Lab learning objectives _(by completing this lab you will know how to...)_
  - [x] ...controle the hardware resources within a datacenter's (cloud) via ReSTful resources requests (CRUD).
