@@ -7,11 +7,11 @@ Don't forget to [setup your laptop with the OpenStack powered cloud of your choi
 ![State or stateless? The key question for every cloud applicaiton engineer to understand.](https://pbs.twimg.com/media/Cudphb2VMAMjaO3.jpg:large)
 
 ## Learning context for completing the lab
- - Imagine (fictionally): a recent scientific dsicovery from the CERN laboratories in Switzerland have revealed that fractals generated from prime numbers can predict the origins of the universe! 
- - A group of proffessors have written an applicaiton which generates fractals, however their cloud application is being inundated with requests from researchers worldwide who want to generate fracts.
- - The professors have hired your team to help scale their fractal applicaiton so that it can dynamically scale and generate as many fractals as are being requsted by Physics and Mathematics departments worldwide!
- - Perhaps most importantly, the professors (being poor researchers) need you to demonstrate you are using datacenters which are cost effective and competitive with one another to help keep costs down (and to assure government research funding is being distributed to multiple infrastructure providers).
- - Can your team enable this simple cloud application to scale globally while still keeping the data locally?!
+ 1. Imagine (fictionally): a recent scientific dsicovery from the CERN laboratories in Switzerland have revealed that fractals generated from prime numbers can predict the origins of the universe! 
+ 2. A group of proffessors have written an applicaiton which generates fractals, however their cloud application is being inundated with requests from researchers worldwide who want to generate fracts.
+ 3. The professors have hired your team to help scale their fractal applicaiton so that it can dynamically scale and generate as many fractals as are being requsted by Physics and Mathematics departments worldwide!
+ 4. Perhaps most importantly, the professors (being poor researchers) need you to demonstrate you are using datacenters which are cost effective and competitive with one another to help keep costs down (and to assure government research funding is being distributed to multiple infrastructure providers).
+ 5. Can your team enable this simple cloud application to scale globally while still keeping the data locally?!
 
 # Lab learning objectives _(by completing this lab you will know how to...)_
  - [x] ...re-factor your cloud application architecture to have multiple 'app workers' which can be dynamically scaled and placed at any OpenStack-powered-datacentre worldwide.
@@ -24,10 +24,10 @@ Don't forget to [setup your laptop with the OpenStack powered cloud of your choi
   - Once an App Pro has +1'd your tweet, come and show your ❤'d tweet to the helpdesk in the Cloud App Lab Lounge in the Marketplace (Expo Hall) to claim your [StackerPoints](/StackerPoints).
 
 ## Ingredients you'll need for completing this lab:
-  - The [Fractals Application is avaialble here](http://developer.openstack.org/firstapp-shade/introduction.html), including instructions for a possible statelss architecture.
-  - You'll need to utilise the Shade SDK/API calls to manage your application accross different OpenStack-powered-datacenters.
-  - Make sure you are managing your account details for each cloud via our clouds.yaml file and os-cloud-config.py library.
-  - Bonus points: pay attention to where your fractal workers are putting the fractals once they are generated.
+  - [ ] The [Fractals Application is avaialble here](http://developer.openstack.org/firstapp-shade/introduction.html), including instructions for a possible statelss architecture.
+  - [ ] You'll need to utilise the Shade SDK/API calls to manage your application accross different OpenStack-powered-datacenters.
+  - [ ] Make sure you are managing your account details for each cloud via our clouds.yaml file and os-cloud-config.py library.
+  - [ ] Bonus points: pay attention to where your fractal workers are putting the fractals once they are generated.
 
 ## App pros who can help you complete this lab:
 Stuck on this lab, need some help to solve?  [Ping one of our Cloud App Lab Pros on Twitter/IRC](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=false&delayms=2000). NB Open Source is about knowing *who* as much as it is about knowing *what*.
