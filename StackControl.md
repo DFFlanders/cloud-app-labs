@@ -22,10 +22,10 @@ Don't forget to [setup your laptop with the OpenStack powered cloud of your choi
   - Once an App Pro has +1'd your tweet, come and show your ❤'d tweet to the helpdesk in the Cloud App Lab Lounge in the Marketplace (Expo Hall) to claim your [StackerPoints](/StackerPoints).
 
 ## Ingredients you'll need for completing this lab:
-  - [Building on the previous lab's library (os-cloud-config.py), you'll install and use the shade library to access and control two or more of the OpenStack powered dataceters of your choice](https://github.com/openstack-infra/shade)
-  - [To upload an application to the cloud you'll neeed to learn some shade usage commands](http://docs.openstack.org/infra/shade/usage.html).  Hint `image = cloud.create_image()`
-  - Once you have your virtual machine, container and/or baremetal instance substantiated you'll need to upload an application to it.
-  - If you'd like an application to work with which we'll be using in future labs, feel free to use this [application which serves scientific fractals](http://developer.openstack.org/firstapp-shade/introduction.html#complete-code-sample).
+  - [ ] [Building on the previous lab's library (os-cloud-config.py), you'll install and use the shade library to access and control two or more of the OpenStack powered dataceters of your choice](https://github.com/openstack-infra/shade)
+  - [ ] [To upload an application to the cloud you'll neeed to learn some shade usage commands](http://docs.openstack.org/infra/shade/usage.html).  Hint `image = cloud.create_image()`
+  - [ ] Once you have your virtual machine, container and/or baremetal instance substantiated you'll need to upload an application to it.
+  - [ ] If you'd like an application to work with which we'll be using in future labs, feel free to use this [application which serves scientific fractals](http://developer.openstack.org/firstapp-shade/introduction.html#complete-code-sample).
 
 ## Lab pros who can help you complete this lab:
 Stuck on this lab, need some help to solve?  [Ping one of our Cloud App Lab Pros on Twitter/IRC](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=false&delayms=2000). Hint: Community driven Open Source is about knowing *who* as much as it is about knowing *what*.
