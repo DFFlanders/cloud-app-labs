@@ -2,7 +2,7 @@
 
 Welcome to the OpenStack Cloud App Lounge!  Below you will find the first 'cloud app lab' challenges.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md) - the future of apps! 
 
-Before you begin, don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq).
+Before you begin, don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq.md).
 
 ![Each OpenStack Project is a robot army witing for your push-button commands](https://pbs.twimg.com/media/CudcNaoUEAAHZBV.jpg:large)
 
