@@ -1,6 +1,6 @@
 # StackControl Application Laboratory
 
-Welcome to the OpenStack Cloud App Lounge!  Below you will find the third (3of6) app lab challenges.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md) - the future of apps. 
+Welcome to the OpenStack Cloud App Lounge!  Below you will find the third app lab challenges.  Each lab is a playful way to see if you have what it takes to be a ['Cloud Application Engineer'](/cloud-application-engineer.md) - the future of apps. 
 
 Don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq)
 
