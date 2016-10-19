@@ -25,7 +25,7 @@ Don't forget to [setup your laptop with the OpenStack powered cloud of your choi
 
 ## Ingredients you'll need for completing this lab:
   - [ ] The [Fractals Application is avaialble here](http://developer.openstack.org/firstapp-shade/introduction.html), including instructions for a possible statelss architecture.
-  - [ ] You'll need to utilise the Shade SDK/API calls to manage your application accross different OpenStack-powered-datacenters.
+  - [ ] You'll need to utilise the Shade SDK/API calls to manage your application across different OpenStack-powered-datacenters.
   - [ ] Make sure you are managing your account details for each cloud via our clouds.yaml file and os-cloud-config.py library.
   - [ ] Bonus points: pay attention to where your fractal workers are putting the fractals once they are generated.
 
