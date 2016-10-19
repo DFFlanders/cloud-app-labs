@@ -42,6 +42,10 @@ To get you started you'll need to have the following pre-requisites:
 # List of Cloud Application Laboratories
 Let's get started, pick a lab:
 
+### Cloud App Lab no.0 - StackLogin: if you don't have an account on a cloud you'll need to get one.
+
+ - Please see [this list of OpenStack-powered Clouds to get your FREE account](/prereq.md).  The OVH cloud is the official sponsor of the OpenStack Academy.
+
 ## Cloud App Lab no.1 - [StackTour: an overview of OpenStack projects as per the buttons they relate to on the Web dashboard.](/StackTour.md)
 
 About this lab:
