@@ -9,7 +9,6 @@ Other OpenStack-powered Datacenters in the EU:
  - [x] [Internap](/internap.md)
  - [x] [DataCentred](/datacentred.md)
  - [x] [CityCloud](/citycloud.md)
- - [x] [Mirantis](/mirantis.md)
  
  If you have trouble getting onto any of these, please don't hesitate to send a question via tweet using the [#CloudApp](https://twitter.com/hashtag/CloudApp) hashtag. A community '[cloud app pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000)' will be monitorring this channel throughout to provide you help.
 
