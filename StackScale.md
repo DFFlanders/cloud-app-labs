@@ -24,7 +24,7 @@ Don't forget to [setup your laptop with the OpenStack powered cloud of your choi
   - Once an App Pro has +1'd your tweet, come and show your ❤'d tweet to the helpdesk in the Cloud App Lab Lounge in the Marketplace (Expo Hall) to claim your [StackerPoints](/StackerPoints).
 
 ## Ingredients you'll need for completing this lab:
-  - [ ] The [Fractals Application is avaialble here](http://developer.openstack.org/firstapp-shade/introduction.html), including instructions for a possible statelss architecture.
+  - [ ] The [Fractals Application is available here](http://developer.openstack.org/firstapp-shade/introduction.html), including instructions for a possible stateless architecture.
   - [ ] You'll need to utilise the Shade SDK/API calls to manage your application accross different OpenStack-powered-datacenters.
   - [ ] Make sure you are managing your account details for each cloud via our clouds.yaml file and os-cloud-config.py library.
   - [ ] Bonus points: pay attention to where your fractal workers are putting the fractals once they are generated.
