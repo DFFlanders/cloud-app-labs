@@ -6,6 +6,7 @@ The following clouds are available for use (and have ben tested by the [OpenStac
    - need help getting access to the OVH cloud, please tweet: [@PilgrimStack](https://twitter.com/pilgrimstack) and/or [@OVH](https://twitter.com/OVH).  Onsite help at the OpenStack Summit in Barcelona is also available at the OpenStack Academy.
 
 Other OpenStack-powered Datacenters in the EU:
+
  - [x] [Internap](/internap.md)
  - [x] [DataCentred](/datacentred.md)
  - [x] [CityCloud](/citycloud.md)
