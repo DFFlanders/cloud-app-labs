@@ -27,3 +27,5 @@ If you want to play with OpenStack APIs, Horizon or CLI, then click on "OpenStac
 Then you can download the openrc.sh file clicking on the tool icon.
 
 We would appreciate any feedback, whether good or bad. This will help us provide the best possible service. Send your comments to [cloud@ml.ovh.net](mailto:cloud@ml.ovh.net) (subscribe first to [cloud-subscribe@ovh.net](mailto:cloud-subscribe@ovh.net)).
+
+[![Open an OVH account and create an OpenStack User](http://img.youtube.com/vi/BIMb0iR1YhY/0.jpg)](http://www.youtube.com/watch?v=BIMb0iR1YhY)
