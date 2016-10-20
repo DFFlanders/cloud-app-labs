@@ -8,7 +8,7 @@ TL;DR = Learn the skills to become a 'Cloud Application Engineer' - ask Q's anyt
 
 Overall Learning Objectives (_by completing these labs you will know how to..._)
  - [x] ...work as part of the growing cloud app community, to understand the significance of working as part of a multi-factor cloud application team (NetEng, SysAdmin, DevOpps, AppDev, UX, etc).
- - [x] ...be inspired to build cloud apps which are cross-cloud (hybrid apps which can work across multiple datacenters worldwide).
+ - [x] ...be inspired to build cloud apps which are 'cross-cloud' (hybrid apps which can work across multiple datacenters worldwide).
  - [x] ...make cloud apps which are simple at the start: constrain their state so they can be further configured as they evolve (to become stateless micro-services aka 'cloud native').
  - [x] ...know where to go to for further learning resources and community ideas for building the cloud apps of the future.
 
