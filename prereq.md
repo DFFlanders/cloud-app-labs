@@ -2,8 +2,10 @@ Other than a laptop, you'll need a cloud (aka datacentre) to finish each lab.
 
 The following clouds are available for use (and have ben tested by the [OpenStack Marketplace](https://www.openstack.org/marketplace/public-clouds/)) to work with the various lab challenges:
 
- - [x] [OVH](/ovh.md) (official cloud sponsor of the OpenStack Academy at the Barcelona Summit)
-   - need help getting access to the OVH cloud, please tweet: [@PilgrimStack](https://twitter.com/pilgrimstack) and/or [@OVH](https://twitter.com/OVH).  Onsite help at the OpenStack Summit in Barcelona is also available at the OpenStack Academy.
+ - [x] [OVH](/ovh.md) is the official cloud sponsor of the OpenStack Academy at the Barcelona Summit
+   - You can ask for a voucher to the OVH team present in the OpenStack Academy lounge 
+   - If you need help getting access to the OVH cloud, contact the OVH team onsite
+   - You can also tweet [@pilgrimStack](https://twitter.com/pilgrimstack)
 
 Other OpenStack-powered Datacenters in the EU:
 
