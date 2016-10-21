@@ -4,7 +4,7 @@
 
 Simply complete [the form](https://www.ovh.com/createAccount), no credit card required.
 
-The system will geolocalise yourself but you probably would like to open an account in your country, to do that, follow this steps:
+The system will geolocalie yourself but you probably would like to open an account in your country, to do that, follow this steps:
 
 1. Click on the flag on the top and select your country
 2. Click on Web Control Panel or Customer Space (depending to the translation)
