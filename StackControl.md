@@ -30,10 +30,12 @@ Don't forget to [setup your laptop with the OpenStack powered cloud of your choi
 ## Lab pros who can help you complete this lab:
 Stuck on this lab, need some help to solve?  [Ping one of our Cloud App Lab Pros on Twitter/IRC](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=false&delayms=2000). Hint: Community driven Open Source is about knowing *who* as much as it is about knowing *what*.
 
-Recommended _cloud app pros_ who can help (via Twitter/IRC):
- - @BrunouyVanMorel
- - @SquidBoylan
- - @JoannahHuang
+Recommended _cloud app pros_ who can help (click the links below to meet the friendly and fun #CloudApp community):
+
+ - Get help from [Cloud App Pros like](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) Caleb: ["Hi @squidBoylan could I request your assistance in helping solve this #CloudApp lab on using the Shade python library?"](http://ctt.ec/KpYX0)
+ - Get help from [Cloud App Pros like](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) Vicky: ["Hi @vkmc wondering if I can get your insight on how to use the Shade SDK with #OpenStack for this #CloudApp lab I'm trying to solve?"](http://ctt.ec/02r7w)
+ - Get help from [Cloud App Pros like](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) 
+ - Get help from [Cloud App Pros like](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) Jakub: ["Hi @JakubPav what are your thoughts on simple SDKs for #CloudApp architectures like the #OpenStack Shade SDK?"](http://ctt.ec/40pdb).
  
 # Solving the lab
 Having trouble?  Sit back and watch someone else solve this lab learning challenge ;-)
