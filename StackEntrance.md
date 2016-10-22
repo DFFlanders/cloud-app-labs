@@ -33,10 +33,13 @@ Before you being, don't forget to [setup your laptop with the OpenStack powered 
 Open Source is about knowing *who* as much as it is about knowing *what*.
 Stuck on this lab, need some help to solve?  [Ping one of our Cloud App Lab Pros on Twitter/IRC](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=false&delayms=2000)
 
-Recommended cloud app pros who can help:
- - @PetterLundKNA
- - @Code_Sean
- - @...
+Recommended cloud app pros who can help (click the link to send them a tweet):
+
+ - ["Hi @PilgrimStack, could I get some help with using the @OVH datacentre with my clouds.yaml file?"](http://ctt.ec/Y3eka)
+ - ["Hi @PetterLundKNA how do I get access to @CityCloud datacentre, could I get some help with this clouds.yaml file in the #CloudApp lounge?"](http://ctt.ec/dUw0B)
+ - ["Hi @Code_Sean wondering if you could provide me help with getting access to the @DataCentred cloud for the #OpenStack #CloudApp lab?"](http://ctt.ec/gZa51)
+ - ["I can haz help @BrunouyVanMorel in using the @Internap datacentre via my clouds.yaml file?"](http://ctt.ec/JDpBP)
+ - ["If I wanted to get access to mulitple Mirantis engineered clouds @IgorMarnat, how might I do so with clouds.yaml?"](http://ctt.ec/l2kHJ)
 
 # Solving the lab
 Having trouble?  Sit back and watch someone else solve the lab challenge ;-)
