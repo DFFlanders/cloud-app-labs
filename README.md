@@ -80,16 +80,16 @@ About this lab:
  - [x] _What you'll learn_ = Building on Lab no.4 you'll start to utilise the block (volume) storage of OpenStack so your application can share it's data with other application in your enterprise.  
  - [x] _Community you'll meet_ = engineers who manage application and operational systems whose data is required to be available for the long term business of the enterprise.
  - [x] _Points you'll score_ = NN points [What can I win with my StackerPoints?!](/StackerPoints.md)
- 
+
+# Future Cloud App Labs coming soon!
+Stay tuned for these future cloud app labs...
+
 ## Cloud App Lab no.6 - [StackHeal: start to create self-healing workers to monitor and rebuild different parts of your cloud application in situ.](/StackHeal.md)
 
 About this lab:
  - [x] _What you'll learn_ =
  - [x] _Community you'll meet_ = advanced, understanding of application architectures and orchestration frameworks...
  - [x] _Points you'll score_ = +15 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
-
-# Future Cloud App Labs coming soon!
-Stay tuned for these future cloud app labs...
 
 ## Cloud App Lab no.7 - StackContainers: start splitting out the state of your app workers to be more agile (self healing) as containers which can dynamically shift across datacentres worldwide.
 About this lab:
