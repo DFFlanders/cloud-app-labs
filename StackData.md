@@ -33,11 +33,10 @@ Before you begin, don't forget to [setup your laptop with the OpenStack powered 
 Stuck on this lab, need some help to solve?  [Ping one of our Cloud App Lab Pros on Twitter/IRC](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=false&delayms=2000). NB Open Source is about knowing *who* as much as it is about knowing *what*.
 
 Recommended _cloud app pros_ who can help (via Twitter/IRC):
- - Ask Marcella [@MBonell why do I want to work with 'volume storage' for my stateless cloud application?](http://ctt.ec/EbpiK)
- - Ask Steve [@xsgordon how do 'cloud native' application work with data?]()
- - Ask Craig [@CraigSterrett 
- - Ask Rico [@ricolintw
- - Ask Craig [@peterscraig
+ - Ask Marcella [why do I want to work with 'volume storage' for my stateless cloud application?](http://ctt.ec/EbpiK)
+ - Ask Steve [how do 'cloud native' application work with data?](http://ctt.ec/Ydl9X)
+ - Ask Craig [what SDKs are best for attaching data to cloud apps?](http://ctt.ec/n3Y_s)
+ - Ask Craig [what are some of the best example of big data cloud apps?](http://ctt.ec/kl49V)
  
 # Solving the lab
 Having trouble?  Sit back and watch someone else solve this lab learning challenge ;-)
