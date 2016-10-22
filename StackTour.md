@@ -61,4 +61,5 @@ Confused? Not to worry the following people are all available to help, click the
  - Mandarin Chinese courtesy of Leong: ["Hi @yihleong - wondering if we could chat about this #CloudApp challenge here at the #OpenStack summit?"](http://ctt.ec/AV6n2)
  - Help in the dulcet tones of Bruno in French: ["Bonjour @BrunouyVanMorel - may I request your help on this #CloudApp lab challenge here at the #OpenStack Summit?"](http://ctt.ec/GSL2a)
  - Russian help so you can rush through this lab to the next one with the help of Alex: ["Zdravstvuyte @AlexLocher hoping for your help on this #CloudApp lab challenge here at the #OpenStack summit?"](http://ctt.ec/U3iQc)
+ - Czech language help a click away = ["Ahoj @ada_sko wondering if you can help explain the different OpenStack dashboard buttons to me here in the #CloudApp lounge?"](http://ctt.ec/zffF6)
  
