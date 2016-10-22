@@ -20,7 +20,7 @@ Before you begin, don't forget to [setup your laptop with the OpenStack powered 
  - [x] ...understand the diligence of community based code review (as per the OpenStack-way of +1/+2 code review, in this case you'll be getting the community to "❤" your tweets).
 
 ## How to complete this lab (to win your Stacker points):
-  - Tweet a picture of a button from the OpenStack dashboard which represents a feature for each one of the OpenStack projects (see core robot armies below), and explain what this robot army can do for your organisations users!
+  - Tweet a picture of a button from the OpenStack dashboard which represents a feature for [each one of the OpenStack projects](https://www.openstack.org/software/project-navigator) (see core robot armies below), and explain what this robot army can do for your organisations users!
   - You'll get Stacker swag point(s) for every picture you tweet showing a button which represents one of the different Core OpenStack projects (see below).
   - Send pictures for the following OpenStack project-robots along with what this army of robots can do!
    - [ ] Tweet a picture of a 'nova button' along with "What the 'Nova robot army' can do for your company?" = +1 StackerPoints
@@ -44,14 +44,9 @@ Once you've collected points for each of the core projects (nova, neutron, swift
  3. Don't forget to get your tweets +1'd with a heart ❤ as the OpenStack community believes in [community driven code review](https://wiki.openstack.org/wiki/How_To_Contribute)
  4. Once you have [Stacker Points you can redeem them for Stacker swag](https://github.com/DFFlanders/cloud-app-labs/blob/master/StackerPoints.md)!
  5. Redeem your StackerPoint for swag at the 'Cloud App Labs' lounge in the main marketplace (expo hall).
-
-## Questions you might want to ask your friendly ['Cloud App Lab Pro'](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) via twitter/irc:
- - Why does OpenStack require all its code to be reviewed +1'd by a member of the OpenStack community and validated +2'd by a core contributor?
- - How do I know projects are robust and ready to be used in production?  Hint: adoption, maturity, age.
- - Where can I get further information on 'big tent' OpenStack projects? See: https://www.openstack.org/software/project-navigator
  
-# Solve this lab (multi-lingual help) #WeAreOpenStack
-Confused? Not to worry the following people are all available to help, click the link to send 'em a tweet:
+# Meet the community and solve this lab in language of your choice #WeAreOpenStack
+Confused? Not to worry the following [cloud app lab pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) are all available to help, click the link to send 'em a tweet:
 
  - Chat about this in Sweedish, tweet Peter: ["Hi @PetterLundKNA, I hear you can help me better understand what button does what on the different OpenStack dashboards? #CloudApp #OpenStack"](http://ctt.ec/0GnQ3)"
  - Taiwanese friendly help, chat with Joanna: [Hi @JoannaHHuang hoping for help here in the #CloudApp lounge on using the different #OpenStack dashboards?](http://ctt.ec/hl8b3)
