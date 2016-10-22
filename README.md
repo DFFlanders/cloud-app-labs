@@ -48,38 +48,38 @@ Let's get started, pick a lab:
 
 ## Cloud App Lab no.1 - [StackTour: an overview of OpenStack projects as per the buttons they relate to on the Web dashboard.](/StackTour.md)
 
-About this lab:
+About this lab (complete in ~5min):
  - [x] _Skills you'll learn_ = which buttons on the OpenStack dashboard (Horizon) connect with the other core OpenStack projects (Nova, Neutron, Cinder, Swift, Glance, etc).
  - [x] _Community you'll meet_ = people who are actively getting their users to launch their own applications using the dashboard and basic scripting skills.
  - [x] _Point's you'll score_ = up to +10 points for completing this lab. [What can I win with 10 StackerPoints?!](/StackerPoints.md)
 
 ## Cloud App Lab no.2 - [StackEntrance: having your own personal entrance to all OpenStack public clouds worldwide](/StackEntrance.md)
 
-About this lab:
+About this lab (complete in ~10min):
  - [x] _What you'll learn_ = how to configure your laptop to control a datacenter, so that you don't have to use a Web-based dashboard; instead, use simple python scripts to get access to datacenters (powered by OpenStack worldwide). Yes that's right, one simple file is all you need to access hundreds of clouds (i.e. clouds.yaml via os-cloud-config.py)
  - [x] _Community you'll meet_ = people who are helping engineers shift their skills to be able to: a.) authenticate via command line, b.) use of YAML as a simple structured document for storing login details, and c.) basic (beginner) control of a datacentre via command line API calls.
  - [x] _Points you'll score_ = +10 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
 
 ## Cloud App Lab no.3 - [StackControl: how to upload and manually control a simple application at multiple OpenStack-powered datacenters around the planet](/StackControl.md)
 
-About this lab:
- - [x] _What you'll learn_ = how to upload an application at 2+ datacenters using simple command line python code (called 'Shade').
+About this lab (complete in ~15min):
+ - [x] _What you'll learn_ = how to upload an application at 1 (or more) datacenters using simple command line python code (called 'Shade').
  - [x] _Community you'll meet_ = people who understand how to enable application developers to use basic cloud skills for: a.) controlling a datacentre via command line API calls, and b.) those who actively use a simple python library (shade).
  - [x] _Points you'll score_ = +10 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
 
 ## Cloud App Lab no.4 - [StackScale: installing an application which is multi-factor (stateless) at different datacenter locations around the world.](/StackScale.md)
 
-About this lab:
+About this lab (complete in ~15min):
  - [x] _What you'll learn_ = install an application whose data (state) needs to be maintained separate from the stateless jobs of the application workers. 
  - [x] _Community you'll meet_ = advanced application engineers who are experimenting with how to best build applications which are stateless in their design.
  - [x] _Points you'll score_ = +25 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
 
 ## Cloud App Lab no.5 - [StackData: attaching storage to your multi-factor app, understanding state/less app architectures.](/StackData.md)
 
-About this lab:
+About this lab (complete in 20min):
  - [x] _What you'll learn_ = Building on Lab no.4 you'll start to utilise the block (volume) storage of OpenStack so your application can share it's data with other application in your enterprise.  
  - [x] _Community you'll meet_ = engineers who manage application and operational systems whose data is required to be available for the long term business of the enterprise.
- - [x] _Points you'll score_ = NN points [What can I win with my StackerPoints?!](/StackerPoints.md)
+ - [x] _Points you'll score_ = +25 points [What can I win with my StackerPoints?!](/StackerPoints.md)
 
 # Future Cloud App Labs coming soon!
 Stay tuned for these future cloud app labs...
