@@ -12,22 +12,26 @@ Don't forget to [setup your laptop with the OpenStack powered cloud of your choi
  3. Get additional points for each datacentre around the world which hosts an application serving the professors Web pages.
 
 # Lab learning objectives _(by completing this lab you will know how to...)_
- - [x] ...controle the hardware resources within a datacenter's (cloud) via ReSTful resources requests (CRUD).
+
+ - [x] ...control the hardware resources within a datacenter's (cloud) via ReSTful resources requests (CRUD).
  - [x] ...initialise an instance (virtual machine) atop the datacenter's infrastructure.
  - [x] ...upload an application to VM and place it on a public network for access via a Web URL.
 
 ## Win StackerPoints for completing this lab:
+
   - Win StackerPoints by tweeting a public URL(IP) showing an application running on the cloud which is able to display webpages. Hint: python SimpleHTTPServer --> index.html('hello world')
   - Get one of the [Cloud App Pros](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=true&delayms=1000) to "❤" your tweet showing your 2+ public app IPs showing some content.
   - Once an App Pro has +1'd your tweet, come and show your ❤'d tweet to the helpdesk in the Cloud App Lab Lounge in the Marketplace (Expo Hall) to claim your [StackerPoints](/StackerPoints).
 
 ## Ingredients you'll need for completing this lab:
+
   - [ ] [Building on the previous lab's library (os-cloud-config.py), you'll install and use the shade library to access and control two or more of the OpenStack powered dataceters of your choice](https://github.com/openstack-infra/shade)
   - [ ] [To upload an application to the cloud you'll neeed to learn some shade usage commands](http://docs.openstack.org/infra/shade/usage.html).  Hint `image = cloud.create_image()`
   - [ ] Once you have your virtual machine, container and/or baremetal instance substantiated you'll need to upload an application to it.
   - [ ] If you'd like an application to work with which we'll be using in future labs, feel free to use this [application which serves scientific fractals](http://developer.openstack.org/firstapp-shade/introduction.html#complete-code-sample).
 
 ## Lab pros who can help you complete this lab:
+
 Stuck on this lab, need some help to solve?  [Ping one of our Cloud App Lab Pros on Twitter/IRC](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=false&delayms=2000). Hint: Community driven Open Source is about knowing *who* as much as it is about knowing *what*.
 
 Recommended _cloud app pros_ who can help (click the links below to meet the friendly and fun #CloudApp community):
