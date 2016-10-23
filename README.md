@@ -72,7 +72,7 @@ About this lab (complete in ~15min):
 About this lab (complete in ~15min):
  - [x] _What you'll learn_ = install an application whose data (state) needs to be maintained separate from the stateless jobs of the application workers. 
  - [x] _Community you'll meet_ = advanced application engineers who are experimenting with how to best build applications which are stateless in their design.
- - [x] _Points you'll score_ = +25 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
+ - [x] _Points you'll score_ = +20 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
 
 ## Cloud App Lab no.5 - [StackData: attaching storage to your multi-factor app, understanding state/less app architectures.](/StackData.md)
 
@@ -84,7 +84,7 @@ About this lab (complete in 20min):
 # Future Cloud App Labs coming soon!
 Stay tuned for these future cloud app labs...
 
-## Cloud App Lab no.6 - [StackHeal: start to create self-healing workers to monitor and rebuild different parts of your cloud application in situ.](/StackHeal.md)
+## Cloud App Lab no.6 - StackHeal: start to create self-healing workers to monitor and rebuild different parts of your cloud application in situ.
 
 About this lab:
  - [x] _What you'll learn_ =
@@ -97,13 +97,13 @@ About this lab:
  - [x] _Community you'll meet_ =
  - [x] _Points you'll score_ = 
 
-## Cloud App Lab no.8 - [StackDock: launch Docker on OpenStack then launch a cloud app within Docker](/StackDock.md)
+## Cloud App Lab no.8 - StackDock: launch Docker on OpenStack then launch a cloud app within Docker
 About this lab:
  - [x] _What you'll learn_ =
  - [x] _Community you'll meet_ =
  - [x] _Points you'll score_ = 
  
-## Cloud App Lab no.9 - [StackPod: launch Kubernetes on OpenStack and get a cloud app working within K8S](/StackPod.md)
+## Cloud App Lab no.9 - StackPod: launch Kubernetes on OpenStack and get a cloud app working within K8S
 
 About this lab:
  - [x] _What you'll learn_ =
