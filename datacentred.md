@@ -10,7 +10,7 @@ You can access the Horizon dashboard via: https://compute.datacentred.io
 
 ## Via API
 
-Our Keystone service is available via https://compute.datacentred.io:5000/v2.0/. The service catalog contains details for other API endpoints supported.
+Our Keystone service is available via https://compute.datacentred.io:5000/v3/. The service catalog contains details for other API endpoints supported.
 
 ## Using clouds.yaml
 
