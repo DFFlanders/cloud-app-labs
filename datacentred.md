@@ -1,6 +1,6 @@
 # Using DataCentred for Cloud App Labs
 
-If you need a username, password and project name please [get in touch with @code_sean](http://ctt.ec/gZa51)
+To get a free DataCentred account, please [get in touch with @code_sean](http://ctt.ec/gZa51)
 
 ## Dashboard Access
 
