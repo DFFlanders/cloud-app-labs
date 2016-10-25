@@ -25,7 +25,8 @@ clouds:
       username: test_account_1@openstacksummit.org
       password: Password123
       project_name: barcelona_summit_1
-      auth_url: https://compute.datacentred.io:5000/v2.0/
+      auth_url: https://compute.datacentred.io:5000/v3
+      domain_name: default
 ```
 
 ```python
