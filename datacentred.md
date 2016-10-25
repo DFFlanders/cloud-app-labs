@@ -1,6 +1,6 @@
 # Using DataCentred for Cloud App Labs
 
-You should've been given a username, password and project name. You will need these to access your test account on DataCentred.
+If you need a username, password and project name please [get in touch with @code_sean](http://ctt.ec/gZa51)
 
 ## Dashboard Access
 
