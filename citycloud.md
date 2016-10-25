@@ -1,6 +1,8 @@
+If you have any questions about how to use CityCloud contact me on twitter @petterlundkna
+
 How to use and connect to CityCloud
 
-- Go to https://citycontrolpanel.com, fill in the username and password provided
+- Go to https://citycontrolpanel.com, fill in the username and password provided by tweeting and follow @petterlundkna
 - You will now see the Dashboard and a Menu on the left side, click API and then Openstack Native API, here you will find your   Openstack Native API user used for shade. You will also find all relevant endpoints and ID’s.
 - When creating your clouds.yaml file add 
 
