@@ -15,3 +15,5 @@ Welcome checklist:
     - [ ] Load IRC channel #openstack ← to get help from wider OpenStack community.
  - @Brain, get your phone ready, (if in team of 4 you’ll be the one standing)
    -[ ]  Have your mobile phone camera and twitter ready! + #CloudApps #OpenStack
+   
+ - [ ] Once your team is setup, get cloud accounts on two clouds.
