@@ -25,7 +25,7 @@ Before you being, don't forget to [setup your laptop with the OpenStack powered 
 
 # Ingredients you'll need to complete the lab:
   - [ ] You'll need [accounts on each cloud you are going to use](/prereq.md).  Hint: if the cloud you are using is a native OpenStack cloud then you should be able to find the endpoints via the dashboard: Compute > Access & Security > API Access.  [Discover OpenStack-powered clouds you can control worldwide](https://www.openstack.org/marketplace/public-clouds/).
-  - [ ] Find the API endpoints for the clouds you want to work with via (http://docs.openstack.org/developer/os-client-config/vendor-support.html).  Hint:  `cloud_config = os_client_config.OpenStackConfig().get_all_clouds()`
+  - [ ] Find the API endpoints for the [clouds you want to work with](http://docs.openstack.org/developer/os-client-config/vendor-support.html) and [read more reference docs](http://docs.openstack.org/developer/os-client-config/api-reference.html).  Hint:  `cloud_config = os_client_config.OpenStackConfig().get_one_cloud()`
   - [ ] [Install the os-cloud-config library so your laptop can talk to any OpenStack cloud in the world](http://docs.openstack.org/developer/os-cloud-config/installation.html).  Hint: save your cloud credentials in a clouds.yaml file for ease of use.
   
 # Lab pros who can help you complete the lab 
