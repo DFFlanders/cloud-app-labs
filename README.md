@@ -59,22 +59,29 @@ About this lab (complete in ~10min):
  - [x] _What you'll learn_ = how to configure your laptop to control a datacenter, so that you don't have to use a Web-based dashboard; instead, use simple python scripts to get access to datacenters (powered by OpenStack worldwide). Yes that's right, one simple file is all you need to access hundreds of clouds (i.e. clouds.yaml via os-cloud-config.py)
  - [x] _Community you'll meet_ = people who are helping engineers shift their skills to be able to: a.) authenticate via command line, b.) use of YAML as a simple structured document for storing login details, and c.) basic (beginner) control of a datacentre via command line API calls.
  - [x] _Points you'll score_ = +10 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
+ 
+## Cloud App Lab no.3 - [StackControl: how to use the basic features of simple multi-cloud dev-kit for controlling your app on the cloud](/StackControl)
 
-## Cloud App Lab no.3 - [StackControl: how to upload and manually control a simple application at multiple OpenStack-powered datacenters around the planet](/StackControl.md)
+About this lab (complete in ~15min):
+ - [x] _What you'll learn_ = the basic features of a simple python dev-kit for controlling a datacentre including containers, baremetal and VMs (called 'Shade' SDK).
+ - [x] _Community you'll meet_ = 
+ - [x] _Points you'll score_ = +NN points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
+
+## Cloud App Lab no.4 - [StackCreate: how to upload and manually control a simple application at multiple OpenStack-powered datacenters around the planet](/StackCreate.md)
 
 About this lab (complete in ~15min):
  - [x] _What you'll learn_ = how to upload an application at 1 (or more) datacenters using simple command line python code (called 'Shade').
  - [x] _Community you'll meet_ = people who understand how to enable application developers to use basic cloud skills for: a.) controlling a datacentre via command line API calls, and b.) those who actively use a simple python library (shade).
  - [x] _Points you'll score_ = +10 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
 
-## Cloud App Lab no.4 - [StackScale: installing an application which is multi-factor (stateless) at different datacenter locations around the world.](/StackScale.md)
+## Cloud App Lab no.5 - [StackScale: installing an application which is multi-factor (stateless) at different datacenter locations around the world.](/StackScale.md)
 
 About this lab (complete in ~15min):
  - [x] _What you'll learn_ = install an application whose data (state) needs to be maintained separate from the stateless jobs of the application workers. 
  - [x] _Community you'll meet_ = advanced application engineers who are experimenting with how to best build applications which are stateless in their design.
  - [x] _Points you'll score_ = +20 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
 
-## Cloud App Lab no.5 - [StackData: attaching storage to your multi-factor app, understanding state/less app architectures.](/StackData.md)
+## Cloud App Lab no.6 - [StackData: attaching storage to your multi-factor app, understanding state/less app architectures.](/StackData.md)
 
 About this lab (complete in 20min):
  - [x] _What you'll learn_ = Building on Lab no.4 you'll start to utilise the block (volume) storage of OpenStack so your application can share it's data with other application in your enterprise.  
@@ -84,26 +91,26 @@ About this lab (complete in 20min):
 # Future Cloud App Labs coming soon!
 Stay tuned for these future cloud app labs...
 
-## Cloud App Lab no.6 - StackHeal: start to create self-healing workers to monitor and rebuild different parts of your cloud application in situ.
+## Cloud App Lab no.7 - StackHeal: start to create self-healing workers to monitor and rebuild different parts of your cloud application in situ.
 
 About this lab:
  - [x] _What you'll learn_ =
  - [x] _Community you'll meet_ = advanced, understanding of application architectures and orchestration frameworks...
  - [x] _Points you'll score_ = +15 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
 
-## Cloud App Lab no.7 - StackContainers: start splitting out the state of your app workers to be more agile (self healing) as containers which can dynamically shift across datacentres worldwide.
+## Cloud App Lab no.8 - StackContainers: start splitting out the state of your app workers to be more agile (self healing) as containers which can dynamically shift across datacentres worldwide.
 About this lab:
  - [x] _What you'll learn_ =
  - [x] _Community you'll meet_ =
  - [x] _Points you'll score_ = 
 
-## Cloud App Lab no.8 - StackDock: launch Docker on OpenStack then launch a cloud app within Docker
+## Cloud App Lab no.9 - StackDock: launch Docker on OpenStack then launch a cloud app within Docker
 About this lab:
  - [x] _What you'll learn_ =
  - [x] _Community you'll meet_ =
  - [x] _Points you'll score_ = 
  
-## Cloud App Lab no.9 - StackPod: launch Kubernetes on OpenStack and get a cloud app working within K8S
+## Cloud App Lab no.10 - StackPod: launch Kubernetes on OpenStack and get a cloud app working within K8S
 
 About this lab:
  - [x] _What you'll learn_ =
