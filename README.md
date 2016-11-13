@@ -60,12 +60,12 @@ About this lab (complete in ~10min):
  - [x] _Community you'll meet_ = people who are helping engineers shift their skills to be able to: a.) authenticate via command line, b.) use of YAML as a simple structured document for storing login details, and c.) basic (beginner) control of a datacentre via command line API calls.
  - [x] _Points you'll score_ = +10 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
  
-## Cloud App Lab no.3 - [StackControl: how to use the basic features of simple multi-cloud dev-kit for controlling your app on the cloud](/StackControl)
+## Cloud App Lab no.3 - [StackControl: how to use the basic features of simple multi-cloud dev-kit for controlling your app on the cloud](/StackControl.md)
 
 About this lab (complete in ~15min):
  - [x] _What you'll learn_ = the basic features of a simple python dev-kit for controlling a datacentre including containers, baremetal and VMs (called 'Shade' SDK).
- - [x] _Community you'll meet_ = 
- - [x] _Points you'll score_ = +NN points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
+ - [x] _Community you'll meet_ = DevOpps and OpenStack Core Contributors who use Shade as a way to test interoperability between the different clouds.
+ - [x] _Points you'll score_ = up to +10 points for completing this lab. [What can I win with my StackerPoints?!](/StackerPoints.md)
 
 ## Cloud App Lab no.4 - [StackCreate: how to upload and manually control a simple application at multiple OpenStack-powered datacenters around the planet](/StackCreate.md)
 
