@@ -1,6 +1,6 @@
 # Using DataCentred for Cloud App Labs
 
-You should've been given a username, password and project name. You will need these to access your test account on DataCentred.
+To get a free DataCentred account, please [get in touch with @code_sean](http://ctt.ec/gZa51)
 
 ## Dashboard Access
 
@@ -10,7 +10,7 @@ You can access the Horizon dashboard via: https://compute.datacentred.io
 
 ## Via API
 
-Our Keystone service is available via https://compute.datacentred.io:5000/v2.0/. The service catalog contains details for other API endpoints supported.
+Our Keystone service is available via https://compute.datacentred.io:5000/v3/. The service catalog contains details for other API endpoints supported.
 
 ## Using clouds.yaml
 
