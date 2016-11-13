@@ -40,7 +40,7 @@ To get you started you'll need to have the following pre-requisites:
  * willingness to ask questions, ask for help and get involved in the community conversation!
 
 # List of Cloud Application Laboratories
-[Let's get started, pick a lab:](https://media.giphy.com/media/epRoTgGfkLpxS/giphy.gif)
+![Let's get started, pick a lab:](https://media.giphy.com/media/epRoTgGfkLpxS/giphy.gif)
 
 ### Cloud App Lab no.0 - StackLogin: if you don't have an account on a cloud you'll need to get one.
 
