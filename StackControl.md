@@ -4,7 +4,7 @@ Welcome to the OpenStack Cloud App Labs.  Each lab is a playful way to see if yo
 
 Before you begin, don't forget to [setup your laptop with the OpenStack powered cloud of your choice](/prereq).
 
-![picture to match lab context re below](https://foobar.png)
+![how do I architect an application which uses virtual machines, baremetal and containers to manage state and scale for my cloud application?](http://blog.nemebean.com/sites/default/files/styles/large/public/field/image/OVBNetwork.png)
 
 # Learning context for completing the lab
  
@@ -33,7 +33,7 @@ Before you begin, don't forget to [setup your laptop with the OpenStack powered 
 Stuck on this lab, need some help to solve?  [Ping one of our Cloud App Lab Pros on Twitter/IRC](https://docs.google.com/presentation/d/1RBtAOjxmUh97fXrJlowvqVNmq2-8FxvBIHx2Dts1Jh8/pub?start=true&loop=false&delayms=2000). NB Open Source is about knowing *who* as much as it is about knowing *what*.
 
 Recommended _cloud app pros_ who can help (via Twitter/IRC):
- - @
+ - @e_monty what is your favorite shade usage command for helping make an application more robust? https://twitter.com/e_monty
  - @
  - @
  
