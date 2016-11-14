@@ -11,7 +11,7 @@ If you have trouble getting onto any of these, please don't hesitate to send a q
 
 ![OVH is the official 'OpenStack Academy' cloud for the Barcelona Summit](https://storage.sbg1.cloud.ovh.net/v1/AUTH_9ea425f44c284d488c6d8e28ccc8bff0/public/OVH-300DPI.png)
 
-# Team-based (pair-programming) 
+# Team-based training (mob-programming) 
 
 To do this training as a participatory team you will need to have:
 
