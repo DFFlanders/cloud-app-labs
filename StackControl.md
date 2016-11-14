@@ -34,8 +34,8 @@ Stuck on this lab, need some help to solve?  [Ping one of our Cloud App Lab Pros
 
 Recommended _cloud app pros_ who can help (via Twitter/IRC):
  - @e_monty what is your favorite shade usage command for helping make an application more robust? https://twitter.com/e_monty
- - @
- - @
+ - @squidboylan how do I use shade to abstract out parts of my application to be used with containers using shade? https://twitter.com/squidboylan
+ - @brunoyvanmorel what are some patterns for using baremetal with a cloud application? https://twitter.com/brunoyvanmorel
  
 # Solving the lab
 Having trouble?  Sit back and watch someone else solve this lab learning challenge ;-)
