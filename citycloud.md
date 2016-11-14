@@ -9,7 +9,7 @@ clouds.yaml example:
       password: OS_DaysAust2016!
       tenant_id: 
       project_id: 
-      auth_url: https://identity1.citycloud.com:5000/v3/
+      auth_url: https://identity01.citycloud.com:5000/v3/
       user_domain_id: 
     region_name: La1
 
