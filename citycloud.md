@@ -4,14 +4,20 @@ If you have any questions about how to use CityCloud contact me on twitter @pett
 
 clouds.yaml example:
 
+```yaml
+# clouds.yaml
+
+clouds:
+  citycloud:
     auth:
       username: osdaust
       password: OS_DaysAust2016!
-      tenant_id: 
-      project_id: 
+      tenant_id:
+      project_id: <project id>
       auth_url: https://identity01.citycloud.com:5000/v3/
-      user_domain_id: 
+      user_domain_id: <domain id>
     region_name: La1
+```
 
 Sent the passwd and usernames for the control panel and clouds.yaml on hangouts as well buthere you go:
 
@@ -30,16 +36,16 @@ https://citycontrolpanel.com/openstack#openstack_api_access
 
 - Go to https://citycontrolpanel.com, fill in the username and password provided by tweeting and follow @petterlundkna
 - You will now see the Dashboard and a Menu on the left side, click API and then Openstack Native API, here you will find your   Openstack Native API user used for shade. You will also find all relevant endpoints and ID’s.
-- When creating your clouds.yaml file add 
+- When creating your clouds.yaml file add
 
 - the following info:
-    - region_name: Lon1
+    - region_name: La1
     - auth:
       - username: username
       - password: password
-      - tenant_id: found in the endpoint url list “https://lon1.citycloud.com:8776/v2/etc…”
-      - project_id: same as Tenant ID
+      - tenant_id: <leave blank, it's not needed>
+      - project_id: found in the endpoint url list “https://lon1.citycloud.com:8776/v2/etc…”
       - auth_url: https://identity1.citycloud.com:5000/v3/
-      - user_domain_id:
+      - user_domain_id: found on endpoint url list under section titled "Your domain IDs"
 
 [Getting started using OpenStack Shade with citycloud](https://www.youtube.com/watch?v=7s7LKdih2vA)
