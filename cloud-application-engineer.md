@@ -1,14 +1,14 @@
-# What is a "Cloud Application Engineer" aka "AppEng?
+# What is a "Cloud Application Operator" (AppOps) aka Site/Service Reliability Engineer aka Cloud Appliication Engineer.
 
-Defining _'Cloud Application Engineering'_ 
+Defining _'AppOpps'_ 
 
-First let's define 'cloud apps'. 'Cloud applications' are apps which operate in a datacente; as opposed to, apps on your mobile phone or laptop.  'Cloud apps' are application which a general cosumer would access via 'online applications', i.e. via your browser, through apps on your phone/tablet, via SMS and/or any other 'Internet connected device' which requires access to 'timely data' and/or 'big data'.  Example of well known cloud apps would include: Uber, Pokeman, Twitter/Facebook, CandyCrush... Also worth noting are the portals which host these applications, so called "Cloud Applications Platforms" (AKA PaaS), which are emerging in the form of Google Drive Apps (aka Google Suite), Salesforce Apps, Apple iCloud, Microsoft365, etc.
+First let's define 'cloud apps'. 'Cloud applications' are apps which operate in a datacente; as opposed to, apps on your mobile phone or laptop.  'Cloud apps' are application which a general cosumer would access via 'online applications', i.e. via your browser, through apps on your phone/tablet, via SMS and/or any other 'Internet connected device' which requires access to 'timely data' and/or 'big data'.  Example of well known cloud apps would include: Uber, Pokeman, Twitter/Facebook, CandyCrush... Also worth noting are the portals which host these applications, so called "Cloud Applications Platforms" (AKA PaaS, also known as CaaS), which are emerging in the form of Google Drive Apps (aka Google Suite), Salesforce Apps, Apple iCloud, Microsoft365, etc.  Last but not least are the increasing number of 'Container application platforms' aka CaaS (Container as a Service), e.g. Kubernetes, OpenShift, Mesos DC/OS, Docker Swarm, Cloudify, Spinnaker, etc.
 
-What then is a 'Cloud Application Engineer'?  Let's begin with their 'high level' obligations (remit) to their employers, which is a simple measurable set of formulas to demonstrate efficiency (_as defined by engineering_).
+What then is 'AppOps'?  Let's begin with their 'high level' obligations (remit) to their employers, which is a simple measurable set of formulas to demonstrate efficiency (_as defined by engineering_).
 
 From Wikipedia: _"efficiency is measured as the ratio of useful output to total input, which can be expressed with the mathematical formula r=P/C, where P is the amount of useful output ("product") produced per the amount C ("cost") of resources consumed._
 
-## What are the aims and objectives which a 'Cloud Application Engineer' should achieve for their employeer?
+## What are the aims and objectives which an 'AppOps' should achieve for their employeer?
 
 Aim:  _Demonstrably advance how a company producing 'cloud apps' are optimising their human and machine workers for shared cost effectiveness via the engineering measures of producitvity and efficieny gains_.
 
@@ -29,7 +29,7 @@ Objectives:
 
 # Job Description Examples:
 
-Which kinds of companies want to hire an 'AppEng' in the real world, right now? Job Applications with the title of "Cloud Application Engineer' have appeared from:
+Which kinds of companies want to hire an 'AppEng' in the real world, right now? Job Applications with the title of "AppOps" or "SRE" or "Application Engineer" have appeared from:
 
  1. Intel (Q1 & Q2 2016)
  2. YouTube (Q1 2016)
@@ -37,7 +37,7 @@ Which kinds of companies want to hire an 'AppEng' in the real world, right now? 
  4. Hewlett Packard (Q3 2016)
  5. IBM (Q3 2016)
  
-# Examples of 'Cloud Application Engineering' job advertisements, CVs/Resumes and other related documentation:
+# Examples of 'AppOps' job advertisements, CVs/Resumes and other related documentation:
 
 Below you'll find wording which I've adapted from _real_ job descriptions as per the above list of companies.  Please copy and paste this wording as you see fit, it is licensed under a creative-commons-zero license.
 
