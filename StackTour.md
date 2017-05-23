@@ -54,7 +54,7 @@ Confused? Not to worry the following [cloud app lab pros](https://docs.google.co
  - Falas Portuguese, no problemo for Patricia: ["Bon Dia @patifa can you hep me understand what the different buttons do on #OpenStack dashboards for completing the #CloudApp lab challenges?"](http://ctt.ec/e0738)
  - German speaking help by Christian: ["Hallo @CABerendt I'm here in the #CloudApp lounge hoping you might be able to help guide me on this #OpenStack challenge?"](http://ctt.ec/3uF5a)
  - Mandarin Chinese courtesy of Leong: ["Hi @yihleong - wondering if we could chat about this #CloudApp challenge here at the #OpenStack summit?"](http://ctt.ec/AV6n2)
- - Help in the dulcet tones of Bruno in French: ["Bonjour @BrunouyVanMorel - may I request your help on this #CloudApp lab challenge here at the #OpenStack Summit?"](http://ctt.ec/GSL2a)
+ - Help in the dulcet tones of Bruno in French: ["Bonjour @BrunoyVanMorel - may I request your help on this #CloudApp lab challenge here at the #OpenStack Summit?"](http://ctt.ec/GSL2a)
  - Russian help so you can rush through this lab to the next one with the help of Alex: ["Zdravstvuyte @AlexLocher hoping for your help on this #CloudApp lab challenge here at the #OpenStack summit?"](http://ctt.ec/U3iQc)
  - Czech language help a click away = ["Ahoj @ada_sko wondering if you can help explain the different OpenStack dashboard buttons to me here in the #CloudApp lounge?"](http://ctt.ec/zffF6)
  
